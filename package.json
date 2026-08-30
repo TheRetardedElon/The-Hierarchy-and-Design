@@ -1,0 +1,12 @@
+{
+  "name": "the-hierarchy-and-design",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Force-directed cluster map of an X botnet hierarchy walked from a live celebrity-face follow node.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
