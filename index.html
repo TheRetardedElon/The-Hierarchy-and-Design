@@ -144,6 +144,9 @@
     .tiny-tag.celebrity { color: var(--gold); border-color: var(--gold); background: rgba(224,184,77,0.12); }
     .tiny-tag.dummy { color: #b9b4ab; border-color: #3a3d46; }
     .tiny-tag.seed { color: #d4a574; border-color: #d4a574; background: rgba(212,165,116,0.12); }
+    .tiny-tag.master { color: var(--gold); border-color: var(--gold); background: rgba(224,184,77,0.12); }
+    .tiny-tag.puppet { color: #6b8fd4; border-color: #6b8fd4; background: rgba(107,143,212,0.12); }
+    .tiny-tag.zombie { color: #b9b4ab; border-color: #3a3d46; }
     .celeb-badge {
       font-size: 9.5px; letter-spacing: 0.03em; padding: 1px 6px; border-radius: 99px;
       color: var(--gold); border: 1px solid var(--gold); background: rgba(224,184,77,0.12);
@@ -196,8 +199,8 @@
     const GRAPH = {
   "updated": "2026-08-29",
   "title": "The Hierarchy and Design",
-  "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT.",
-  "observer_note": "Edge verified_follower_of = child sat on parent's Verified followers list. Edge dummy_of = unverified follower / clone dummy of parent. Confirmed-signal: S001 @AsemotaDavid8 (video walk) and S002 @emusk260X (likes-hit). S003-class: @Rocketman69299 (dummy-drill / follow-notify hit). S002 dummy drill of @emusk260X unverified followers; controller-candidate @AdtFrh34220 has exactly one edge (verified_follower_of @Alagieenkq) — second parent tree not named yet. Yellow-PFP million account was not in main-column VF lists scanned 2026-08-29 11:15 PM CT. Biggest opened that pass: @SPACETESLA1MUSK 500. @AdtFrh34220 still 713. Controller-bridge @Kshsb783142 opened-card 2026-08-29 11:17 PM CT: 3054 followers / 3702 following / celebrity no.",
+  "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT.",
+  "observer_note": "Edge verified_follower_of = child sat on parent's Verified followers list. Edge dummy_of = unverified follower / clone dummy of parent. Confirmed-signal: S001 @AsemotaDavid8 (video walk) and S002 @emusk260X (likes-hit). S003-class: @Rocketman69299 (dummy-drill / follow-notify hit). S002 dummy drill of @emusk260X unverified followers; controller-candidate @AdtFrh34220 has exactly one edge (verified_follower_of @Alagieenkq) — second parent tree not named yet. Yellow-PFP million account was not in main-column VF lists scanned 2026-08-29 11:15 PM CT. Biggest opened that pass: @SPACETESLA1MUSK 500. @AdtFrh34220 still 713. Controller-bridge @Kshsb783142 opened-card 2026-08-29 11:17 PM CT: 3054 followers / 3702 following / celebrity no. @Moyosoreoluwa66 dummy_of @emusk260X blocked; 12 VF masks, no controller-bridge this hop. Moyosoreoluwa66 VF-row bios logged from card (football/religion/promo/BDSM). No Democrat, LGBTQ, crypto, or anti-Trump on those cards. @ElhusinyAm29533 dummy_of @emusk260X already blocked; VF @jfkcaaz and @hussam7775_emam, no ranking tags, no controller-bridge. @VicentJohn98162 Zombie dummy_of @emusk260X; 0 VF; 8 unverified children; no controller-bridge; no ranking tags. @SpaceCowboy190 Puppet space-wrapper VF of @MagnusFide45160; 15 VF, crypto on @cryptotristan0 and @bacvu1987; no Master. @DevotaMinja Puppet on @VicentJohn98162: 19.7K followers, celebrity MP/journalist from the card. Bigger than mid-layer Master @Kshsb783142. VicentJohn children counts: @sijuisasa01 4138, @JonathanMwakif2 926, @MaryJohn972865 880, all blocked. @DevotaMinja VF Tanzania cluster, no Master. Celebrity from card: @MsigwaPeter former Iringa MP. @MsigwaPeter 24.6K celebrity Puppet on @DevotaMinja; top opened-card rank.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -1056,7 +1059,8 @@
       "video": "on CloverInAlpha verified_followers; also appeared in Rocketman dummy drill Opened card 2026-08-29 11:17 PM CT: 3054 followers, 3702 following, 1289 posts, blue-check verified. Block hid posts timeline only, not counts. celebrity false (cartoon avatar, NVIDIA-style banner, not a public figure).",
       "followers": 3054,
       "following": 3702,
-      "posts": 1289
+      "posts": 1289,
+      "role": "master"
     },
     {
       "id": "lengs4189",
@@ -1949,44 +1953,66 @@
     {
       "id": "Moyosoreoluwa66",
       "handle": "@Moyosoreoluwa66",
-      "display": "Moyosoreoluwa66",
+      "display": "¹⁴",
       "layer": 2,
       "cluster": "likes-hit",
-      "status": "pending-drill",
+      "status": "dummy",
       "flags": [
         "unverified-dummy",
-        "numbered-handle"
+        "numbered-handle",
+        "leftover-name"
       ],
-      "blocked": false,
-      "video": "S002 unverified follower of @emusk260X; pending-drill 2026-08-29 10:55 PM CT"
+      "blocked": true,
+      "video": "S002 unverified follower of @emusk260X; pending-drill 2026-08-29 10:55 PM CT Opened card 2026-08-29 11:19 PM CT: display ¹⁴, 2858 followers, 4156 following, joined Nov 2021, leftover-name, not blocked yet. dummy_of @emusk260X. celebrity false. No second-tree VF until /verified_followers is opened. Blocked; VF hop Path A leftover 2026-08-29 11:21 PM CT.",
+      "followers": 2858,
+      "following": 4156,
+      "celebrity": false,
+      "role": "zombie",
+      "posts": 3034
     },
     {
       "id": "ElhusinyAm29533",
       "handle": "@ElhusinyAm29533",
-      "display": "ElhusinyAm29533",
+      "display": "Amr Elhusiny",
       "layer": 2,
       "cluster": "likes-hit",
-      "status": "pending-drill",
+      "status": "dummy",
       "flags": [
         "unverified-dummy",
-        "numbered-handle"
+        "numbered-handle",
+        "leftover-name"
       ],
-      "blocked": false,
-      "video": "S002 unverified follower of @emusk260X; pending-drill 2026-08-29 10:55 PM CT"
+      "blocked": true,
+      "video": "S002 unverified follower of @emusk260X; pending-drill 2026-08-29 10:55 PM CT Already blocked when opened; bio hidden by block. VF hop Path A leftover 2026-08-29 11:24 PM CT.",
+      "followers": 11,
+      "following": 1517,
+      "posts": 237,
+      "celebrity": false,
+      "ranking_tags": [],
+      "role": "zombie"
     },
     {
       "id": "VicentJohn98162",
       "handle": "@VicentJohn98162",
-      "display": "VicentJohn98162",
+      "display": "Vicent John",
       "layer": 2,
       "cluster": "likes-hit",
-      "status": "pending-drill",
+      "status": "dummy",
       "flags": [
         "unverified-dummy",
-        "numbered-handle"
+        "numbered-handle",
+        "leftover-name",
+        "empty-bio"
       ],
-      "blocked": false,
-      "video": "S002 unverified follower of @emusk260X; pending-drill 2026-08-29 10:55 PM CT"
+      "blocked": true,
+      "video": "S002 unverified follower of @emusk260X; pending-drill 2026-08-29 10:55 PM CT Opened card 2026-08-29 11:26 PM CT: 10 followers, 1165 following, 79 posts, empty bio, no check. Blocked. role zombie. dummy_of @emusk260X. VF opening. Blocked; 0 VF; dummy children Path A leftover 2026-08-29 11:27 PM CT.",
+      "followers": 10,
+      "following": 1165,
+      "posts": 79,
+      "celebrity": false,
+      "role": "zombie",
+      "stack": "zombie",
+      "ranking_tags": []
     },
     {
       "id": "Sasinan1383224",
@@ -2715,7 +2741,7 @@
     {
       "id": "SpaceCowboy190",
       "handle": "@SpaceCowboy190",
-      "display": "SpaceCowboy190",
+      "display": "Space Cowboy 🤠",
       "layer": 3,
       "cluster": "likes-hit",
       "status": "walked",
@@ -2724,7 +2750,14 @@
         "numbered-handle"
       ],
       "blocked": true,
-      "video": "on @MagnusFide45160 verified_followers (dummy batch 2 2026-08-29 11:03 PM CT)"
+      "video": "on @MagnusFide45160 verified_followers (dummy batch 2 2026-08-29 11:03 PM CT) Blocked; VF hop Path A leftover 2026-08-29 11:30 PM CT.",
+      "followers": 117,
+      "following": 1231,
+      "posts": 9,
+      "celebrity": false,
+      "stack": "puppet",
+      "bio": "Starmind",
+      "ranking_tags": []
     },
     {
       "id": "Dan20804",
@@ -3630,6 +3663,1023 @@
       ],
       "blocked": false,
       "video": "dummy of @FifiChum (unverified child; 2026-08-29 11:14 PM CT)"
+    },
+    {
+      "id": "dedayoor",
+      "handle": "@dedayoor",
+      "display": "Waris, the last waist bender.",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "ranking_tags": []
+    },
+    {
+      "id": "pohAlkateir",
+      "handle": "@pohAlkateir",
+      "display": "نبض الحروف",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "كن مع الله ولا تبالي",
+      "ranking_tags": []
+    },
+    {
+      "id": "MrNnaeke",
+      "handle": "@MrNnaeke",
+      "display": "IFEANYICHUKWU",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "Dedicated to pursuits that cultivate inner resilience and hope for a brighter future//Soccer fan// Enyimba//Chelsea//Music//Culture// Bonafide Ndoki Man B.N.M",
+      "ranking_tags": []
+    },
+    {
+      "id": "king_ilos",
+      "handle": "@king_ilos",
+      "display": "KingUTD",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "Chemical Engineer 🧪🎓 | Red Devil by heart 🔴 | WizkidFc 🚢 | Just vibes and good football ⚽️",
+      "ranking_tags": []
+    },
+    {
+      "id": "Ben_Kay1",
+      "handle": "@Ben_Kay1",
+      "display": "BIG BEN",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "☝🏼️☉. Chelsea FC 💙. CR7 🐐. C'est la vie",
+      "ranking_tags": []
+    },
+    {
+      "id": "BamideleMoore",
+      "handle": "@BamideleMoore",
+      "display": "Topmost",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)"
+    },
+    {
+      "id": "kelvinnchase",
+      "handle": "@kelvinnchase",
+      "display": "K. minty",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "@fcbarcelona fan • everything is football",
+      "ranking_tags": []
+    },
+    {
+      "id": "Michealkaiser_",
+      "handle": "@Michealkaiser_",
+      "display": "Zoldyck",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "dm-bait"
+      ],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "Dm for promos and deals",
+      "ranking_tags": []
+    },
+    {
+      "id": "ephy_bae",
+      "handle": "@ephy_bae",
+      "display": "Ephy Bae",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "God fearing person,1 Thessa 5:18 🇳🇬 MLT 😉 ,LFC ❤️",
+      "ranking_tags": []
+    },
+    {
+      "id": "Mayowa005",
+      "handle": "@Mayowa005",
+      "display": "Mayowa",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "CR7 convert | United till I die (then Madrid till I die again) | Posting memes at 3am after losses | Glory hunter? Nah, just masochist",
+      "ranking_tags": []
+    },
+    {
+      "id": "evelynhow04",
+      "handle": "@evelynhow04",
+      "display": "Howard Scott",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "dm-bait"
+      ],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "Dominant,BDSM lifestyle 😈😈,DM me woooooof 😈😈😈",
+      "ranking_tags": []
+    },
+    {
+      "id": "iamnotukoh",
+      "handle": "@iamnotukoh",
+      "display": "Notu-koh",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:21 PM CT)",
+      "bio": "You know it’ll be okay, deal with it",
+      "ranking_tags": []
+    },
+    {
+      "id": "jfkcaaz",
+      "handle": "@jfkcaaz",
+      "display": "joseph kinder",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "bio": "Born in Philly while Dad was in the Marines ❤️🫒 Camp Lejeune to Brawley • San Diego County • Pilot turned salesman & Music Producer",
+      "ranking_tags": [],
+      "video": "on @ElhusinyAm29533 verified_followers (Path A leftover 2026-08-29 11:24 PM CT)",
+      "role": "puppet"
+    },
+    {
+      "id": "hussam7775_emam",
+      "handle": "@hussam7775_emam",
+      "display": "حسام الامام",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "blocked": false,
+      "bio": "كاتب صحفي بجريدة الكويتيه و موقع كيان عضو نقابة الصحافيين الكويتيه – مخرج سابق بمراقبة البرامج الرياضية – اذاعة الكويت – رئيس تحرير موقع arabgoldennews.com",
+      "ranking_tags": [],
+      "video": "on @ElhusinyAm29533 verified_followers (Path A leftover 2026-08-29 11:24 PM CT)",
+      "role": "puppet"
+    },
+    {
+      "id": "Fl0w_Analysis",
+      "handle": "@Fl0w_Analysis",
+      "display": "FlowAnalysis",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "leet-handle"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162 (unverified child; 0 VF fallback Path A leftover 2026-08-29 11:27 PM CT)",
+      "bio": "Análisis del mercado en tiempo real. Price Action, tendencias, zonas y gestión. Trading claro y sin humo. Aprendé a leer el flujo del precio."
+    },
+    {
+      "id": "mambosholizzy",
+      "handle": "@mambosholizzy",
+      "display": "ELIZABETH MAMBOSHO",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "unverified-dummy"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162 (unverified child; 0 VF fallback Path A leftover 2026-08-29 11:27 PM CT)"
+    },
+    {
+      "id": "Patrick_Assenga",
+      "handle": "@Patrick_Assenga",
+      "display": "Patrick John Assenga",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "unverified-dummy",
+        "leftover-name",
+        "swahili-politics"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162; card 2026-08-29 11:37 PM CT: 97 followers / 98 following / 297 posts, joined May 2025, no blue check, Tanzanian politics posting, leftover-name Puppet on 10-follower Zombie.",
+      "bio": "",
+      "followers": 97,
+      "following": 98,
+      "posts": 297,
+      "joined": "May 2025",
+      "verified": false,
+      "celebrity": false
+    },
+    {
+      "id": "MaryJohn972865",
+      "handle": "@MaryJohn972865",
+      "display": "Mary John",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "unverified-dummy",
+        "numbered-handle",
+        "clone-name"
+      ],
+      "blocked": true,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162 (unverified child; 0 VF fallback Path A leftover 2026-08-29 11:27 PM CT) Blocked; opened card 880 followers / 2672 following, 0 posts.",
+      "followers": 880,
+      "following": 2672,
+      "posts": 0
+    },
+    {
+      "id": "DevotaMinja",
+      "handle": "@DevotaMinja",
+      "display": "Devota Minja",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "celebrity"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162 (unverified child; 0 VF fallback Path A leftover 2026-08-29 11:27 PM CT) Opened card 2026-08-29 11:32 PM CT: 19.7K followers, 8509 following, 1131 posts, Morogoro, joined Feb 2017, MP/journalist bio, celebrity from card, not blocked. VF hop complete 2026-08-29 11:37 PM CT: 20 verified followers logged (Tanzanian politics/professional cluster; no two-tree overlap).",
+      "bio": "Professional Journalist- ITV /Radio One 2002-2015/To date 2025-2030 MP ( special seat ) Morogoro Region I ChairPerson PAC | Vice Chairperson- CHAUMMA .",
+      "followers": 19700,
+      "following": 8509,
+      "posts": 1131,
+      "celebrity": true,
+      "verified": false
+    },
+    {
+      "id": "RoseMakei",
+      "handle": "@RoseMakei",
+      "display": "Rose Moshi Makei",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "celebrity",
+        "swahili-politics",
+        "follow-back-farm"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162; card 2026-08-29 11:37 PM CT: 25.1K followers / 18K following / 10.9K posts, Dar es Salaam, joined July 2015, no blue check, celebrity (retired special-seat councillor / BAWACHA Coast chair). Follow-back-farm shape.",
+      "bio": "MWENYEKITI BAWACHA KANDA YA PWANI DIWANI V/MAALUM MSTAAFU MANISPAA YA KINONDON",
+      "followers": 25100,
+      "following": 18000,
+      "posts": 10900,
+      "joined": "July 2015",
+      "verified": false,
+      "celebrity": true
+    },
+    {
+      "id": "sijuisasa01",
+      "handle": "@sijuisasa01",
+      "display": "SIJUISASA",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "unverified-dummy",
+        "numbered-handle"
+      ],
+      "blocked": true,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162 (unverified child; 0 VF fallback Path A leftover 2026-08-29 11:27 PM CT) Blocked; opened card 4138 followers / 5759 following, 28K posts.",
+      "followers": 4138,
+      "following": 5759,
+      "posts": 28000
+    },
+    {
+      "id": "JonathanMwakif2",
+      "handle": "@JonathanMwakif2",
+      "display": "Jonathan Mwakifuna",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "dummy",
+      "flags": [
+        "numbered-handle",
+        "follow-spray"
+      ],
+      "blocked": true,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "dummy of @VicentJohn98162; card 2026-08-29 11:37 PM CT: 926 followers / 2,010 following / 1,101 posts (bio/joined hidden — already blocked). Spray-follow shape.",
+      "bio": "Mining Engineer, DnB specialisation. I disturb the Rock",
+      "followers": 926,
+      "following": 2010,
+      "posts": 1101,
+      "celebrity": false
+    },
+    {
+      "id": "WKieranJP",
+      "handle": "@WKieranJP",
+      "display": "W Kieran J Pattinson",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Yo, I'm Kieran, William is my first name and yes Pattinson is my legal name. I am focusing on my plans for my project's theories on Meta-Health."
+    },
+    {
+      "id": "pirate51520",
+      "handle": "@pirate51520",
+      "display": "Dread Pirate Roberts",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "leftover-name"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Dread Pirate Roberts | FSU loyalist | Mocking the establishment one sacred cow at a time.."
+    },
+    {
+      "id": "turbatn",
+      "handle": "@turbatn",
+      "display": "Төрбат",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Хулгайч нар айл ухахдаа гэрлийг нь асаадаггүйтэй адил авилгачид ард түмнийг гэгээрүүлэх дургүй байдаг ..."
+    },
+    {
+      "id": "Serabee42069",
+      "handle": "@Serabee42069",
+      "display": "Sera",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "leftover-name"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "trying to protect country from idiots. Love God and America. AND GODSPEED."
+    },
+    {
+      "id": "cryptotristan0",
+      "handle": "@cryptotristan0",
+      "display": "加密阿宇",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Encrypted A Yu | Focused on mainstream crypto ecosystems like BTC, BNB, SOL, etc., sharing market trends, project research, and on-chain opportunities, continuously seeking noteworthy Alpha"
+    },
+    {
+      "id": "johnjgreen89822",
+      "handle": "@johnjgreen89822",
+      "display": "johnjgreen",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Off Grid Gone!"
+    },
+    {
+      "id": "UberGeekEdward",
+      "handle": "@UberGeekEdward",
+      "display": "Edward- the Political Loudmouth and SciFi Author",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Formerly @edwardmaumbauer until they suspended my account for saying RIP to a dead man Scifi Author buymeacoffee.com/maumbauer"
+    },
+    {
+      "id": "Barryii14558",
+      "handle": "@Barryii14558",
+      "display": "Barryii1455",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "empty-bio"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)"
+    },
+    {
+      "id": "SteveParis1",
+      "handle": "@SteveParis1",
+      "display": "Steve Paris",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Building apps, games and random ideas using AI, probably spending way too much time testing new models. Dog person 🐕"
+    },
+    {
+      "id": "streetjour",
+      "handle": "@streetjour",
+      "display": "STREET ASSHOLE",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "empty-bio"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)"
+    },
+    {
+      "id": "KlausLadwig",
+      "handle": "@KlausLadwig",
+      "display": "Klaus",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Did you like something I posted or replied to? Follow me… who knows, there might be more coming!"
+    },
+    {
+      "id": "QUSAYMY0",
+      "handle": "@QUSAYMY0",
+      "display": "𝕄𝕖",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "الانسان المهموم يشبه الغرفه الممتلئه بالدخان كُن لنفسك كُل شيء"
+    },
+    {
+      "id": "pierrelarsen",
+      "handle": "@pierrelarsen",
+      "display": "Pierre A. Larsen",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "Father, Jute, Programmer, Farmer, Architect 🤠🇩🇰🇧🇷🇮🇱🇺🇸🇺🇦🇧🇷🇿🇦..."
+    },
+    {
+      "id": "taesin_groups",
+      "handle": "@taesin_groups",
+      "display": "Tae Sin",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "TAE SIN GROUPS/ /PROUDLY BASED IN AFRICA 🌍 REAL MADRID 🤍🤍🤍💅📋💼🏆🥇🥉"
+    },
+    {
+      "id": "bacvu1987",
+      "handle": "@bacvu1987",
+      "display": "Mr_Đức Chí (美徳)",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "on @SpaceCowboy190 verified_followers (Path A leftover 2026-08-29 11:30 PM CT)",
+      "bio": "#Hán tự nhập môn. #Crypto, #Đệ tử quy, #funnyvideo, #VLTK..."
+    },
+    {
+      "id": "Atutu100",
+      "handle": "@Atutu100",
+      "display": "HARD LYRICS",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "Walxzy",
+      "handle": "@Walxzy",
+      "display": "Olawale",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "Kunazomi",
+      "handle": "@Kunazomi",
+      "display": "Kumazori",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "CHAIRMANWOTUMI",
+      "handle": "@CHAIRMANWOTUMI",
+      "display": "MNEY N WTER",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "Glitz_HQ",
+      "handle": "@Glitz_HQ",
+      "display": "Glitz Media Hub",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "damhi_me",
+      "handle": "@damhi_me",
+      "display": "damhi_me",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "Queenztweets",
+      "handle": "@Queenztweets",
+      "display": "Queenz",
+      "layer": 3,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [],
+      "blocked": false,
+      "video": "on @Moyosoreoluwa66 verified_followers (Path A leftover 2026-08-29 11:34 PM CT)"
+    },
+    {
+      "id": "hassanmacho74",
+      "handle": "@hassanmacho74",
+      "display": "Macho",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "kuzaliwa bahati mbaya kuishi makusudi",
+      "celebrity": false
+    },
+    {
+      "id": "PeterMfipa",
+      "handle": "@PeterMfipa",
+      "display": "PeterMfipa",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "A boy from Sumbawanga, Tanzania",
+      "celebrity": false
+    },
+    {
+      "id": "mollel___jr",
+      "handle": "@mollel___jr",
+      "display": "Mollel___810",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "Solar & Electrical Expert | Teaching you how to use solar energy to save money | Tanzania | Follow for free knowledge",
+      "celebrity": false
+    },
+    {
+      "id": "Awesially",
+      "handle": "@Awesially",
+      "display": "Awesi Ally Mkubwa",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "Digital creator/Influencer/Interprenuer",
+      "celebrity": false
+    },
+    {
+      "id": "EngSeifseif",
+      "handle": "@EngSeifseif",
+      "display": "Seif Seif",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "empty-bio",
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "celebrity": false
+    },
+    {
+      "id": "kibiki0Ø1",
+      "handle": "@kibiki0Ø1",
+      "display": "hassan kibiki",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "empty-bio"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT)"
+    },
+    {
+      "id": "Officialharuna8",
+      "handle": "@Officialharuna8",
+      "display": "Officialharuna01",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "Officialharuna01. Official account.",
+      "celebrity": false
+    },
+    {
+      "id": "MsigwaPeter",
+      "handle": "@MsigwaPeter",
+      "display": "Peter Msigwa",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "celebrity",
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT) former Member of Parliament Iringa 2010-2020, former Shadow Minister; celebrity candidate (one tree so far) Opened card 2026-08-29 11:37 PM CT: 24.6K followers, 257 following, 1040 posts, blue check, Iringa, joined May 2023, former MP from card, not blocked.",
+      "bio": "Pastor | Former Member of parliament-iringa constituency 2010 -2020 | Former Shadow Minster for Natural Resource and Tourism",
+      "celebrity": true,
+      "followers": 24600,
+      "following": 257,
+      "posts": 1040,
+      "verified": true
+    },
+    {
+      "id": "its_elwanda",
+      "handle": "@its_elwanda",
+      "display": "Wanda",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "Dir., Joybirds Prep, Col., Standard Newspaper, Dip.Ed. Arts, B.Ed. Arts, M.A. in History , Patriot, Pan-African, Humanitarian, wandaelphas@gmail.com",
+      "celebrity": false
+    },
+    {
+      "id": "ChrisNsamb",
+      "handle": "@ChrisNsamb",
+      "display": "Tofa",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "empty-bio",
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "celebrity": false
+    },
+    {
+      "id": "IamGoodDriver",
+      "handle": "@IamGoodDriver",
+      "display": "Gelshom Mtinda",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "automated",
+        "verified-mask",
+        "self-declared-automation"
+      ],
+      "blocked": false,
+      "stack": "zombie",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT) bio says Automated by @13hours___",
+      "bio": "Automated by @13hours___ / tiktok.com/@iamgooddriver Fan @ChelseaFc and @SimbaScTanzania",
+      "celebrity": false
+    },
+    {
+      "id": "DrHhangali",
+      "handle": "@DrHhangali",
+      "display": "Dr. Hhangali",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "Medical Doctor",
+      "celebrity": false
+    },
+    {
+      "id": "joemtana",
+      "handle": "@joemtana",
+      "display": "Joe",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "Commentary account / Truly Tanzanian! Passion on Economic Diplomacy agenda, Banker plenty of Experience devoted for C1st (Customer centric Solutions) for sustainable Development.",
+      "celebrity": false
+    },
+    {
+      "id": "dna_bongo",
+      "handle": "@dna_bongo",
+      "display": "Levocatus Mganga",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)",
+      "bio": "I believe in Freedom of speech, Human rights defender .",
+      "celebrity": false
+    },
+    {
+      "id": "smkami",
+      "handle": "@smkami",
+      "display": "Sir Major",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (DevotaMinja VF hop 2026-08-29 11:37 PM CT) | on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT) self-described Political Influencer",
+      "bio": "Petroleum and Industrial Services Expert | Businessman | Human Rights Monitor | Political Infuencer",
+      "celebrity": false
+    },
+    {
+      "id": "kibiki001",
+      "handle": "@kibiki001",
+      "display": "hassan kibiki",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "celebrity": false,
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)"
+    },
+    {
+      "id": "TonnyUnfiltered",
+      "handle": "@TonnyUnfiltered",
+      "display": "SPOON",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "celebrity": false,
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)"
+    },
+    {
+      "id": "fundo_baraka",
+      "handle": "@fundo_baraka",
+      "display": "Baraka Fundo",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "celebrity": false,
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)"
+    },
+    {
+      "id": "karu_mbele",
+      "handle": "@karu_mbele",
+      "display": "karu mbele",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "celebrity": false,
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)"
+    },
+    {
+      "id": "OlengurumwaO",
+      "handle": "@OlengurumwaO",
+      "display": "Olaigwanani-Olengurumwa, Adv",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask",
+        "celebrity"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "celebrity": true,
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT) CEO THRDC, human rights lawyer; celebrity candidate (one tree so far)"
+    },
+    {
+      "id": "PeterMponeja1",
+      "handle": "@PeterMponeja1",
+      "display": "Mponeja",
+      "layer": 4,
+      "cluster": "likes-hit",
+      "status": "walked",
+      "flags": [
+        "verified-mask"
+      ],
+      "blocked": false,
+      "stack": "puppet",
+      "celebrity": false,
+      "ranking_tags": [],
+      "video": "on @DevotaMinja verified_followers (2026-08-29 11:37 PM CT)"
     }
   ],
   "edges": [
@@ -4947,6 +5997,331 @@
       "source": "tdvor_",
       "target": "FifiChum",
       "type": "dummy_of"
+    },
+    {
+      "source": "dedayoor",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "pohAlkateir",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "MrNnaeke",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "king_ilos",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Ben_Kay1",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BamideleMoore",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kelvinnchase",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Michealkaiser_",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ephy_bae",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Mayowa005",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "evelynhow04",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "iamnotukoh",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jfkcaaz",
+      "target": "ElhusinyAm29533",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "hussam7775_emam",
+      "target": "ElhusinyAm29533",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Fl0w_Analysis",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "mambosholizzy",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "Patrick_Assenga",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "MaryJohn972865",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "DevotaMinja",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "RoseMakei",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "sijuisasa01",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "JonathanMwakif2",
+      "target": "VicentJohn98162",
+      "type": "dummy_of"
+    },
+    {
+      "source": "WKieranJP",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "pirate51520",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "turbatn",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Serabee42069",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "cryptotristan0",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "johnjgreen89822",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "UberGeekEdward",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Barryii14558",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SteveParis1",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "streetjour",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "KlausLadwig",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "QUSAYMY0",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "pierrelarsen",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "taesin_groups",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "bacvu1987",
+      "target": "SpaceCowboy190",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Atutu100",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Walxzy",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Kunazomi",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CHAIRMANWOTUMI",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Glitz_HQ",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "damhi_me",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Queenztweets",
+      "target": "Moyosoreoluwa66",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "hassanmacho74",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "PeterMfipa",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "mollel___jr",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Awesially",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EngSeifseif",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kibiki0Ø1",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Officialharuna8",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "MsigwaPeter",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "its_elwanda",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ChrisNsamb",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "IamGoodDriver",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DrHhangali",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "joemtana",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dna_bongo",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "smkami",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kibiki001",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TonnyUnfiltered",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "fundo_baraka",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "karu_mbele",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "OlengurumwaO",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "PeterMponeja1",
+      "target": "DevotaMinja",
+      "type": "verified_follower_of"
     }
   ]
 };
@@ -5216,17 +6591,27 @@
       counts.textContent =
         GRAPH.nodes.length + " accounts · " +
         rawEdges.length + " edges · " +
-        controllers.length + " controllers · " +
+        controllers.length + " puppet masters · " +
         pendingDrill.length + " pending-drill";
       archEl.appendChild(counts);
       const stack = document.createElement("div");
       stack.className = "layer-stack";
       const ctrlBridgeIds = new Set(controllers.map((n) => n.id).concat(bridges.map((n) => n.id)));
+      const puppetIds = new Set();
+      rawNodes.forEach((n) => {
+        if (n.role === "puppet") puppetIds.add(n.id);
+      });
+      vfSources.forEach((id) => {
+        const n = byId[id];
+        if (!n) return;
+        if (isController(n)) return;
+        if (dummyIds.has(id)) return;
+        puppetIds.add(id);
+      });
       const layers = [
-        { color: "#d4a574", label: "Seed", n: seeds.length },
-        { color: "#8b8680", label: "Dummy followers", n: dummyIds.size },
-        { color: "#6b8fd4", label: "Verified masks", n: vfSources.size },
-        { color: "#e8d44d", label: "Controller / bridge", n: ctrlBridgeIds.size }
+        { color: "#e8d44d", label: "Puppet Masters", n: ctrlBridgeIds.size },
+        { color: "#6b8fd4", label: "Puppets", n: puppetIds.size },
+        { color: "#8b8680", label: "Zombies", n: dummyIds.size }
       ];
       layers.forEach((L, i) => {
         const row = document.createElement("div");
@@ -5276,9 +6661,10 @@
         fol.textContent = fmtCount(n.followers);
         const tags = document.createElement("span");
         tags.className = "rank-tags";
-        if (isController(n)) addTag(tags, "controller", "controller");
+        if (n.role === "master" || isController(n)) addTag(tags, "master", "master");
+        if (n.role === "puppet") addTag(tags, "puppet", "puppet");
+        if (n.role === "zombie" || ((isDummyNode(n) || dummyOfSources.has(n.id)) && n.role !== "puppet")) addTag(tags, "zombie", "zombie");
         if (n.celebrity === true) addTag(tags, "celebrity", "celebrity");
-        if (isDummyNode(n) || dummyOfSources.has(n.id)) addTag(tags, "dummy", "dummy");
         if (isSeedNode(n)) addTag(tags, "seed", "seed");
         row.appendChild(num);
         row.appendChild(handle);
@@ -5295,11 +6681,11 @@
       // ---- CONTROLLERS / BRIDGES ----
       ctrlEl.textContent = "";
       const ch = document.createElement("h2");
-      ch.textContent = "Controllers / Bridges";
+      ch.textContent = "Puppet Masters";
       ctrlEl.appendChild(ch);
       const csub = document.createElement("p");
       csub.className = "rank-sub";
-      csub.textContent = "celebrity first · unknown last";
+      csub.textContent = "two-tree confirms a Master · celebrity first · unknown last";
       ctrlEl.appendChild(csub);
       const rankedCtrl = controllers.slice().sort(celebFollowersSort);
       rankedCtrl.forEach((n, i) => {
