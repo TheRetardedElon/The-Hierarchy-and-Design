@@ -9455,8 +9455,8 @@
     },
     {
       "id": "Rockchilld2",
-      "display": "phi",
-      "bio": "Opened for Yasiin Bey Sound engineer charting on Sonic $s $Moth dev Parabola enthusiast #memefi",
+      "display": "φ🍣💡",
+      "bio": "Opened for Yasiin Bey🗣️🎙️ Sound engineer charting on Sonic $s. $Moth dev. Parabola enthusiast $thc $toona $hedgy $speed #memefi",
       "ranking_tags": [
         "crypto"
       ],
@@ -9469,13 +9469,13 @@
         "rounded-k-posts",
         "mid-layer"
       ],
-      "video": "TWO-TREE: VF of @Vibatron (Meta/jay-four) AND VF of @SachinK80101150 (Tony cluster). Controller-bridge. SachinK VF two-tree 2026-08-30 3:23 PM CT. TWO-TREE Master. 2,269/7,327. Mid-layer. Celebrity off. Alberta joke-location pending About. Rockchilld2 Master 2026-08-30 3:25 PM CT. MASTER 2026-08-30 3:26 PM CT. Same verified handle on two trees: VF of @SachinK80101150 (Tony seed) AND VF of @Vibatron (Meta_Pathfinder seed). 2269/7327, 22.5K posts HUD, joined Oct 2024. Location Republic of Alberta (joke until About). Crypto/memefi on the card. Mid-layer Master, celebrity off until the card is a real public figure. About UK / Canada Android App. Alberta joke, geo-mismatch no. Verified Aug 2026. 1 username change Oct 2024.",
+      "video": "TWO-TREE: VF of @Vibatron (Meta/jay-four) AND VF of @SachinK80101150 (Tony cluster). Controller-bridge. SachinK VF two-tree 2026-08-30 3:23 PM CT. TWO-TREE Master. 2,269/7,327. Mid-layer. Celebrity off. Alberta joke-location pending About. Rockchilld2 Master 2026-08-30 3:25 PM CT. MASTER 2026-08-30 3:26 PM CT. Same verified handle on two trees: VF of @SachinK80101150 (Tony seed) AND VF of @Vibatron (Meta_Pathfinder seed). 2269/7327, 22.5K posts HUD, joined Oct 2024. Location Republic of Alberta (joke until About). Crypto/memefi on the card. Mid-layer Master, celebrity off until the card is a real public figure. About UK / Canada Android App. Alberta joke, geo-mismatch no. Verified Aug 2026. 1 username change Oct 2024. Blocked. VF 12 all new, no second two-tree. Rockchilld2 VF 2026-08-30 3:30 PM CT. Blocked. VF 12 all new, no second two-tree. Mid-layer Master stays 2269. Hopping VF #1 @valerioshi.",
       "handle": "@Rockchilld2",
       "layer": 3,
       "cluster": "controller",
       "status": "controller-bridge",
       "stack": "master",
-      "blocked": false,
+      "blocked": true,
       "celebrity": false,
       "followers": 2269,
       "following": 7327,
@@ -9483,12 +9483,13 @@
       "verified": true,
       "joined": "October 2024",
       "location": "Republic of Alberta",
-      "posts": 22500,
+      "posts": "22.5K",
       "role": "master",
       "about_based_in": "United Kingdom",
       "about_connected_via": "Canada Android App",
-      "about_verified_since": "August 2026",
-      "username_changes": 1
+      "about_verified_since": "August 2026 (also rendered June 2026 on reload)",
+      "username_changes": 1,
+      "x_user_id": "1841265582374531077"
     },
     {
       "id": "Abeneri0",
@@ -10403,6 +10404,215 @@
       "ranking_tags": [],
       "blocked": false,
       "celebrity": false
+    },
+    {
+      "id": "valerioshi",
+      "display": "Val",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@valerioshi",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "crypto growth/ex-CMO, OKX/Bybit/CoinGecko/Magic Eden",
+      "role": "puppet"
+    },
+    {
+      "id": "2mrpc",
+      "display": "Murat Arpaci",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@2mrpc",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "Beauty will save the world",
+      "role": "puppet"
+    },
+    {
+      "id": "tumukundecadete",
+      "display": "Dudette",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@tumukundecadete",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "small girl: Big God.",
+      "role": "puppet"
+    },
+    {
+      "id": "seyfettin2m",
+      "display": "ya yere para dusursem burak",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@seyfettin2m",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "andersoncrvg93",
+      "display": "Anderson Santos",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@andersoncrvg93",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "betting/Vasco",
+      "role": "puppet"
+    },
+    {
+      "id": "noiseirons",
+      "display": "Noise",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@noiseirons",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "Web3 KOL/AI/NFT",
+      "role": "puppet"
+    },
+    {
+      "id": "Emermuo",
+      "display": "Usman",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@Emermuo",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "community builder/KOL",
+      "role": "puppet"
+    },
+    {
+      "id": "XanosTakes",
+      "display": "Xano Takes",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@XanosTakes",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "LFC football takes",
+      "role": "puppet"
+    },
+    {
+      "id": "svbrother211",
+      "display": "Suvo.base.eth",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@svbrother211",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Bojack100x",
+      "display": "Bojack",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@Bojack100x",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "$PNUT",
+      "role": "puppet"
+    },
+    {
+      "id": "junkribi",
+      "display": "Junk",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@junkribi",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "AizahFi",
+      "display": "Aizah",
+      "flags": [],
+      "ranking_tags": [],
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT)",
+      "handle": "@AizahFi",
+      "layer": 4,
+      "cluster": "controller",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "AI & content creator",
+      "role": "puppet"
     }
   ],
   "edges": [
@@ -13794,6 +14004,66 @@
     {
       "source": "brianvn99",
       "target": "SachinK80101150",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "valerioshi",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "2mrpc",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tumukundecadete",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "seyfettin2m",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "andersoncrvg93",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "noiseirons",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Emermuo",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "XanosTakes",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "svbrother211",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Bojack100x",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "junkribi",
+      "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "AizahFi",
+      "target": "Rockchilld2",
       "type": "verified_follower_of"
     }
   ]
