@@ -1,0 +1,592 @@
+{
+  "updated": "2026-08-29",
+  "title": "The Hierarchy and Design",
+  "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers.",
+  "observer_note": "Edge verified_follower_of = child sat on parent's Verified followers list. Only @AsemotaDavid8 is confirmed-signal.",
+  "clusters": {
+    "seed": {
+      "label": "Celebrity-face seed",
+      "color": "#d4a574"
+    },
+    "follow-farm": {
+      "label": "Follow-farm hop (time_outdoors)",
+      "color": "#c45c4a"
+    },
+    "cjk-graph": {
+      "label": "CJK / numbered deep hop",
+      "color": "#6b8fd4"
+    },
+    "jp-nationalist": {
+      "label": "On S001 list, not hopped in video",
+      "color": "#7d9a6f"
+    },
+    "agentic-swarm": {
+      "label": "On S001 list, not hopped in video",
+      "color": "#8b6fd4"
+    },
+    "memecoin": {
+      "label": "On S001 list, not hopped in video",
+      "color": "#c9a227"
+    }
+  },
+  "nodes": [
+    {
+      "id": "AsemotaDavid8",
+      "handle": "@AsemotaDavid8",
+      "display": "PRIVATE PAGE",
+      "layer": 0,
+      "cluster": "seed",
+      "status": "confirmed",
+      "following": 566,
+      "followers": 65,
+      "posts": 3,
+      "flags": [
+        "elon-banner",
+        "leftover-name",
+        "follow-spray"
+      ],
+      "blocked": true,
+      "video": "opened profile + verified_followers"
+    },
+    {
+      "id": "time_outdoors",
+      "handle": "@time_outdoors",
+      "display": "Time Outdoors",
+      "layer": 1,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "tesla-persona",
+        "opened-in-video"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "blondeKatzeChaz",
+      "handle": "@blondeKatzeChaz",
+      "display": "music cat",
+      "layer": 1,
+      "cluster": "jp-nationalist",
+      "status": "walked",
+      "flags": [
+        "on-s001-verified-list"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "DrGhattasMD",
+      "handle": "@DrGhattasMD",
+      "display": "Dodz4allai",
+      "layer": 1,
+      "cluster": "agentic-swarm",
+      "status": "walked",
+      "flags": [
+        "agentic-swarm-bio",
+        "on-s001-verified-list"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "2seaterbeamer",
+      "handle": "@2seaterbeamer",
+      "display": "Moe Capital",
+      "layer": 1,
+      "cluster": "memecoin",
+      "status": "walked",
+      "flags": [
+        "wallet-in-bio",
+        "on-s001-verified-list"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "startShip18",
+      "handle": "@startShip18",
+      "display": "Start Ship",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "JohnnyBoysGame",
+      "handle": "@JohnnyBoysGame",
+      "display": "Johnnyboygaming1",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "TomMoore2",
+      "handle": "@TomMoore2",
+      "display": "Thomas Moore",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "BarlasHANTR",
+      "handle": "@BarlasHANTR",
+      "display": "Barlas HAN",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "hazara858",
+      "handle": "@hazara858",
+      "display": "Hazara",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "web3",
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "Deogratiou88396",
+      "handle": "@Deogratiou88396",
+      "display": "Deo Kamba",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "opened-profile",
+        "hopped"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "jones_c20587",
+      "handle": "@jones_c20587",
+      "display": "Cara Jones",
+      "layer": 3,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "video": "opened from startShip18 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "JenGrazC1509",
+      "handle": "@JenGrazC1509",
+      "display": "JenGrazC1509",
+      "layer": 3,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "video": "opened from startShip18 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "Crazycilantro",
+      "handle": "@Crazycilantro",
+      "display": "香菜 Cilantro",
+      "layer": 3,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Deogratiou88396 verified_followers",
+      "flags": [
+        "hopped"
+      ]
+    },
+    {
+      "id": "Leo1ee666",
+      "handle": "@Leo1ee666",
+      "display": "Leo",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "hopped"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "msbhje",
+      "handle": "@msbhje",
+      "display": "甜瓜大王",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "hopped"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "ZxPastore7",
+      "handle": "@ZxPastore7",
+      "display": "ZxPastore7",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "wangwan97978269",
+      "handle": "@wangwan97978269",
+      "display": "wangwang",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "Luckywed112",
+      "handle": "@Luckywed112",
+      "display": "Luckywed112",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "pxxxxxzzzz",
+      "handle": "@pxxxxxzzzz",
+      "display": "山人",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "blocked": true,
+      "video": "opened from Leo1ee666 verified_followers",
+      "flags": [
+        "blocked-on-profile"
+      ]
+    },
+    {
+      "id": "happy_today86",
+      "handle": "@happy_today86",
+      "display": "今天也要开心",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "blocked": false,
+      "video": "opened from Leo1ee666 verified_followers",
+      "flags": []
+    },
+    {
+      "id": "G7food",
+      "handle": "@G7food",
+      "display": "潮起潮落",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "blocked": false,
+      "video": "opened from Leo1ee666 verified_followers",
+      "flags": []
+    },
+    {
+      "id": "Web3454354",
+      "handle": "@Web3454354",
+      "display": "PPP的梦想是买一辆二手车",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "hopped"
+      ],
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "RicardoVan30704",
+      "handle": "@RicardoVan30704",
+      "display": "RicardoVan30704",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "sudo_LakayPh",
+      "handle": "@sudo_LakayPh",
+      "display": "sudo_LakayPh",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "dongjiao0019903",
+      "handle": "@dongjiao0019903",
+      "display": "dongjiao0019903",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "LE0NX0",
+      "handle": "@LE0NX0",
+      "display": "LE0NX0",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "laopao9999",
+      "handle": "@laopao9999",
+      "display": "laopao9999",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "lionelzhangnl",
+      "handle": "@lionelzhangnl",
+      "display": "lionelzhangnl",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "juliaevee",
+      "handle": "@juliaevee",
+      "display": "juliaevee",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "coo7o7",
+      "handle": "@coo7o7",
+      "display": "coo7o7",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "asdchen19950",
+      "handle": "@asdchen19950",
+      "display": "asdchen19950",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "time_outdoors",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "blondeKatzeChaz",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DrGhattasMD",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "2seaterbeamer",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "startShip18",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JohnnyBoysGame",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TomMoore2",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BarlasHANTR",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "hazara858",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Deogratiou88396",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jones_c20587",
+      "target": "startShip18",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JenGrazC1509",
+      "target": "startShip18",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Crazycilantro",
+      "target": "Deogratiou88396",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Leo1ee666",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "msbhje",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ZxPastore7",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "wangwan97978269",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Luckywed112",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "pxxxxxzzzz",
+      "target": "Leo1ee666",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "happy_today86",
+      "target": "Leo1ee666",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "G7food",
+      "target": "Leo1ee666",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Web3454354",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RicardoVan30704",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "sudo_LakayPh",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dongjiao0019903",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "LE0NX0",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "laopao9999",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "lionelzhangnl",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "juliaevee",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "coo7o7",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "asdchen19950",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    }
+  ]
+}

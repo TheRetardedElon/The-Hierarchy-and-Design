@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Hierarchy and Design</title>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <style>
+    :root {
+      --bg: #08090c;
+      --ink: #eceae6;
+      --muted: #8b8680;
+      --line: #2a2c33;
+      --card: rgba(14, 16, 22, 0.92);
+      --gold: #e0b84d;
+      --gold-ring: #f0c75a;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Segoe UI", "Helvetica Neue", ui-sans-serif, system-ui, sans-serif;
+    }
+    #map {
+      position: fixed;
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      display: block;
+      cursor: grab;
+    }
+    #map.dragging { cursor: grabbing; }
+    .hud { position: fixed; z-index: 2; pointer-events: none; }
+    .title-block { top: 28px; left: 32px; max-width: min(520px, calc(100vw - 64px)); }
+    .title-block h1 { font-size: 22px; font-weight: 620; letter-spacing: 0.04em; line-height: 1.15; }
+    .title-block p { margin-top: 6px; color: var(--muted); font-size: 13px; letter-spacing: 0.02em; }
+    .legend {
+      bottom: 24px; left: 32px; pointer-events: auto;
+      background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+      padding: 12px 14px 10px; backdrop-filter: blur(10px); min-width: 220px;
+    }
+    .legend h2 {
+      font-size: 10px; font-weight: 600; letter-spacing: 0.14em;
+      text-transform: uppercase; color: var(--muted); margin-bottom: 8px;
+    }
+    .legend-row {
+      display: flex; align-items: center; gap: 8px; font-size: 12px;
+      line-height: 1.45; color: #c9c5be; margin: 4px 0;
+    }
+    .swatch {
+      width: 9px; height: 9px; border-radius: 50%; flex: 0 0 9px;
+      box-shadow: 0 0 0 1px rgba(255,255,255,0.08);
+    }
+    .legend-note {
+      margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line);
+      font-size: 11px; color: var(--muted); display: flex; align-items: center; gap: 8px;
+    }
+    .gold-dot {
+      width: 11px; height: 11px; border-radius: 50%; background: #d4a574;
+      box-shadow: 0 0 0 2.5px var(--gold-ring); flex: 0 0 11px;
+    }
+    .card {
+      position: fixed; top: 28px; right: 28px; z-index: 3;
+      width: min(320px, calc(100vw - 40px)); background: var(--card);
+      border: 1px solid var(--line); border-radius: 12px; padding: 16px 16px 14px;
+      backdrop-filter: blur(12px); display: none; box-shadow: 0 18px 40px rgba(0,0,0,0.45);
+    }
+    .card.open { display: block; }
+    .card-close {
+      position: absolute; top: 10px; right: 12px; background: none; border: 0;
+      color: var(--muted); font-size: 18px; cursor: pointer; line-height: 1;
+    }
+    .card-close:hover { color: var(--ink); }
+    .card-display { font-size: 16px; font-weight: 600; padding-right: 22px; line-height: 1.25; }
+    .card-handle { color: var(--gold); font-size: 13px; margin: 4px 0 12px; }
+    .meta { display: grid; grid-template-columns: 72px 1fr; gap: 6px 10px; font-size: 12.5px; }
+    .meta dt { color: var(--muted); }
+    .meta dd { color: var(--ink); word-break: break-word; }
+    .flags { display: flex; flex-wrap: wrap; gap: 4px; }
+    .flag {
+      font-size: 10.5px; letter-spacing: 0.02em; padding: 2px 7px; border-radius: 99px;
+      background: #1c1f28; border: 1px solid #32363f; color: #c4bfb6;
+    }
+    .empty { color: var(--muted); }
+    .link { stroke: #4a4e5a; stroke-opacity: 0.55; stroke-width: 1.1; fill: none; }
+    .node-label {
+      font-size: 10px; fill: #b9b4ab; pointer-events: none; paint-order: stroke;
+      stroke: #08090c; stroke-width: 3px; stroke-linejoin: round;
+    }
+    .hint { position: fixed; bottom: 28px; right: 32px; z-index: 2; color: #5c5852; font-size: 11px; pointer-events: none; }
+  </style>
+</head>
+<body>
+  <svg id="map" aria-label="Force-directed cluster map"></svg>
+  <header class="hud title-block">
+    <h1>The Hierarchy and Design</h1>
+    <p>video walk 29 Aug 2026, 32 accounts</p>
+  </header>
+  <aside class="hud legend" id="legend"></aside>
+  <p class="hint">scroll to zoom · drag to pan · click a node</p>
+  <article class="card" id="card" hidden>
+    <button class="card-close" id="card-close" aria-label="Close">x</button>
+    <div class="card-display" id="card-display"></div>
+    <div class="card-handle" id="card-handle"></div>
+    <dl class="meta" id="card-meta"></dl>
+  </article>
+<script>
+    const GRAPH = {
+  "updated": "2026-08-29",
+  "title": "The Hierarchy and Design",
+  "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers.",
+  "observer_note": "Edge verified_follower_of = child sat on parent's Verified followers list. Only @AsemotaDavid8 is confirmed-signal.",
+  "clusters": {
+    "seed": {
+      "label": "Celebrity-face seed",
+      "color": "#d4a574"
+    },
+    "follow-farm": {
+      "label": "Follow-farm hop (time_outdoors)",
+      "color": "#c45c4a"
+    },
+    "cjk-graph": {
+      "label": "CJK / numbered deep hop",
+      "color": "#6b8fd4"
+    },
+    "jp-nationalist": {
+      "label": "On S001 list, not hopped in video",
+      "color": "#7d9a6f"
+    },
+    "agentic-swarm": {
+      "label": "On S001 list, not hopped in video",
+      "color": "#8b6fd4"
+    },
+    "memecoin": {
+      "label": "On S001 list, not hopped in video",
+      "color": "#c9a227"
+    }
+  },
+  "nodes": [
+    {
+      "id": "AsemotaDavid8",
+      "handle": "@AsemotaDavid8",
+      "display": "PRIVATE PAGE",
+      "layer": 0,
+      "cluster": "seed",
+      "status": "confirmed",
+      "following": 566,
+      "followers": 65,
+      "posts": 3,
+      "flags": [
+        "elon-banner",
+        "leftover-name",
+        "follow-spray"
+      ],
+      "blocked": true,
+      "video": "opened profile + verified_followers"
+    },
+    {
+      "id": "time_outdoors",
+      "handle": "@time_outdoors",
+      "display": "Time Outdoors",
+      "layer": 1,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "tesla-persona",
+        "opened-in-video"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "blondeKatzeChaz",
+      "handle": "@blondeKatzeChaz",
+      "display": "music cat",
+      "layer": 1,
+      "cluster": "jp-nationalist",
+      "status": "walked",
+      "flags": [
+        "on-s001-verified-list"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "DrGhattasMD",
+      "handle": "@DrGhattasMD",
+      "display": "Dodz4allai",
+      "layer": 1,
+      "cluster": "agentic-swarm",
+      "status": "walked",
+      "flags": [
+        "agentic-swarm-bio",
+        "on-s001-verified-list"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "2seaterbeamer",
+      "handle": "@2seaterbeamer",
+      "display": "Moe Capital",
+      "layer": 1,
+      "cluster": "memecoin",
+      "status": "walked",
+      "flags": [
+        "wallet-in-bio",
+        "on-s001-verified-list"
+      ],
+      "blocked": true,
+      "video": "on S001 verified_followers"
+    },
+    {
+      "id": "startShip18",
+      "handle": "@startShip18",
+      "display": "Start Ship",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "JohnnyBoysGame",
+      "handle": "@JohnnyBoysGame",
+      "display": "Johnnyboygaming1",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "TomMoore2",
+      "handle": "@TomMoore2",
+      "display": "Thomas Moore",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "BarlasHANTR",
+      "handle": "@BarlasHANTR",
+      "display": "Barlas HAN",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "hazara858",
+      "handle": "@hazara858",
+      "display": "Hazara",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "web3",
+        "opened-profile"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "Deogratiou88396",
+      "handle": "@Deogratiou88396",
+      "display": "Deo Kamba",
+      "layer": 2,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "flags": [
+        "numbered-handle",
+        "opened-profile",
+        "hopped"
+      ],
+      "blocked": true,
+      "video": "opened from time_outdoors verified_followers"
+    },
+    {
+      "id": "jones_c20587",
+      "handle": "@jones_c20587",
+      "display": "Cara Jones",
+      "layer": 3,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "video": "opened from startShip18 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "JenGrazC1509",
+      "handle": "@JenGrazC1509",
+      "display": "JenGrazC1509",
+      "layer": 3,
+      "cluster": "follow-farm",
+      "status": "walked",
+      "video": "opened from startShip18 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "Crazycilantro",
+      "handle": "@Crazycilantro",
+      "display": "香菜 Cilantro",
+      "layer": 3,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Deogratiou88396 verified_followers",
+      "flags": [
+        "hopped"
+      ]
+    },
+    {
+      "id": "Leo1ee666",
+      "handle": "@Leo1ee666",
+      "display": "Leo",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "hopped"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "msbhje",
+      "handle": "@msbhje",
+      "display": "甜瓜大王",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "hopped"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "ZxPastore7",
+      "handle": "@ZxPastore7",
+      "display": "ZxPastore7",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "wangwan97978269",
+      "handle": "@wangwan97978269",
+      "display": "wangwang",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "Luckywed112",
+      "handle": "@Luckywed112",
+      "display": "Luckywed112",
+      "layer": 4,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from Crazycilantro verified_followers"
+    },
+    {
+      "id": "pxxxxxzzzz",
+      "handle": "@pxxxxxzzzz",
+      "display": "山人",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "blocked": true,
+      "video": "opened from Leo1ee666 verified_followers",
+      "flags": [
+        "blocked-on-profile"
+      ]
+    },
+    {
+      "id": "happy_today86",
+      "handle": "@happy_today86",
+      "display": "今天也要开心",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "blocked": false,
+      "video": "opened from Leo1ee666 verified_followers",
+      "flags": []
+    },
+    {
+      "id": "G7food",
+      "handle": "@G7food",
+      "display": "潮起潮落",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "blocked": false,
+      "video": "opened from Leo1ee666 verified_followers",
+      "flags": []
+    },
+    {
+      "id": "Web3454354",
+      "handle": "@Web3454354",
+      "display": "PPP的梦想是买一辆二手车",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "hopped"
+      ],
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "RicardoVan30704",
+      "handle": "@RicardoVan30704",
+      "display": "RicardoVan30704",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "sudo_LakayPh",
+      "handle": "@sudo_LakayPh",
+      "display": "sudo_LakayPh",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "dongjiao0019903",
+      "handle": "@dongjiao0019903",
+      "display": "dongjiao0019903",
+      "layer": 5,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "flags": [
+        "numbered-handle"
+      ],
+      "video": "opened from msbhje verified_followers"
+    },
+    {
+      "id": "LE0NX0",
+      "handle": "@LE0NX0",
+      "display": "LE0NX0",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "laopao9999",
+      "handle": "@laopao9999",
+      "display": "laopao9999",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "lionelzhangnl",
+      "handle": "@lionelzhangnl",
+      "display": "lionelzhangnl",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "juliaevee",
+      "handle": "@juliaevee",
+      "display": "juliaevee",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "coo7o7",
+      "handle": "@coo7o7",
+      "display": "coo7o7",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    },
+    {
+      "id": "asdchen19950",
+      "handle": "@asdchen19950",
+      "display": "asdchen19950",
+      "layer": 6,
+      "cluster": "cjk-graph",
+      "status": "walked",
+      "video": "opened from Web3454354 verified_followers",
+      "flags": [
+        "numbered-handle"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "time_outdoors",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "blondeKatzeChaz",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DrGhattasMD",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "2seaterbeamer",
+      "target": "AsemotaDavid8",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "startShip18",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JohnnyBoysGame",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TomMoore2",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BarlasHANTR",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "hazara858",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Deogratiou88396",
+      "target": "time_outdoors",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jones_c20587",
+      "target": "startShip18",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JenGrazC1509",
+      "target": "startShip18",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Crazycilantro",
+      "target": "Deogratiou88396",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Leo1ee666",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "msbhje",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ZxPastore7",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "wangwan97978269",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Luckywed112",
+      "target": "Crazycilantro",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "pxxxxxzzzz",
+      "target": "Leo1ee666",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "happy_today86",
+      "target": "Leo1ee666",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "G7food",
+      "target": "Leo1ee666",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Web3454354",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RicardoVan30704",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "sudo_LakayPh",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dongjiao0019903",
+      "target": "msbhje",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "LE0NX0",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "laopao9999",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "lionelzhangnl",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "juliaevee",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "coo7o7",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "asdchen19950",
+      "target": "Web3454354",
+      "type": "verified_follower_of"
+    }
+  ]
+};
+
+    const svg = d3.select("#map");
+    const width = () => window.innerWidth;
+    const height = () => window.innerHeight;
+
+    svg.attr("width", width()).attr("height", height());
+
+    const g = svg.append("g");
+    const linkLayer = g.append("g").attr("class", "links");
+    const nodeLayer = g.append("g").attr("class", "nodes");
+    const labelLayer = g.append("g").attr("class", "labels");
+
+    const clusters = GRAPH.clusters;
+    const nodes = GRAPH.nodes.map((d) => Object.assign({}, d));
+    const links = GRAPH.edges.map((d) => Object.assign({}, d));
+
+    const color = (cluster) => (clusters[cluster] && clusters[cluster].color) || "#888";
+    const radius = (d) => (d.status === "confirmed" ? 14 : Math.max(5.5, 9.5 - d.layer * 0.45));
+
+    const legend = d3.select("#legend");
+    legend.append("h2").text("Clusters");
+    Object.entries(clusters).forEach(([key, c]) => {
+      const row = legend.append("div").attr("class", "legend-row");
+      row.append("span").attr("class", "swatch").style("background", c.color);
+      row.append("span").text(c.label);
+    });
+    const note = legend.append("div").attr("class", "legend-note");
+    note.append("span").attr("class", "gold-dot");
+    note.append("span").text("confirmed · gold ring");
+
+    const zoom = d3.zoom()
+      .scaleExtent([0.25, 4])
+      .on("zoom", (event) => g.attr("transform", event.transform))
+      .on("start", () => svg.classed("dragging", true))
+      .on("end", () => svg.classed("dragging", false));
+
+    svg.call(zoom);
+    svg.on("click", (event) => {
+      if (event.target === svg.node()) closeCard();
+    });
+
+    const simulation = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id((d) => d.id).distance(80).strength(0.7))
+      .force("charge", d3.forceManyBody().strength(-320))
+      .force("center", d3.forceCenter(width() / 2, height() / 2))
+      .force("collide", d3.forceCollide().radius((d) => radius(d) + 10).iterations(2))
+      .force("radial", d3.forceRadial((d) => 40 + d.layer * 78, width() / 2, height() / 2).strength(0.55));
+
+    const link = linkLayer.selectAll("line")
+      .data(links)
+      .join("line")
+      .attr("class", "link");
+
+    const node = nodeLayer.selectAll("g")
+      .data(nodes)
+      .join("g")
+      .attr("class", "node")
+      .style("cursor", "pointer")
+      .call(d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended));
+
+    node.filter((d) => d.status === "confirmed")
+      .append("circle")
+      .attr("class", "gold-ring")
+      .attr("r", (d) => radius(d) + 5)
+      .attr("fill", "none")
+      .attr("stroke", "var(--gold-ring)")
+      .attr("stroke-width", 2.4);
+
+    node.append("circle")
+      .attr("r", radius)
+      .attr("fill", (d) => color(d.cluster))
+      .attr("stroke", (d) => d.status === "confirmed" ? "var(--gold)" : "rgba(8,9,12,0.7)")
+      .attr("stroke-width", (d) => d.status === "confirmed" ? 1.6 : 1);
+
+    const labels = labelLayer.selectAll("text")
+      .data(nodes)
+      .join("text")
+      .attr("class", "node-label")
+      .attr("text-anchor", "middle")
+      .attr("dy", (d) => radius(d) + 12)
+      .text((d) => d.handle);
+
+    node.on("click", (event, d) => {
+      event.stopPropagation();
+      openCard(d);
+    });
+
+    const card = document.getElementById("card");
+    document.getElementById("card-close").addEventListener("click", (e) => {
+      e.stopPropagation();
+      closeCard();
+    });
+
+    function openCard(d) {
+      document.getElementById("card-display").textContent = d.display || "-";
+      document.getElementById("card-handle").textContent = d.handle || "";
+      const clusterLabel = (clusters[d.cluster] && clusters[d.cluster].label) || d.cluster;
+      const flags = (d.flags && d.flags.length)
+        ? d.flags.map((f) => "<span class=\"flag\">" + esc(f) + "</span>").join("")
+        : "<span class=\"empty\">none</span>";
+      document.getElementById("card-meta").innerHTML =
+        "<dt>layer</dt><dd>" + esc(String(d.layer)) + "</dd>" +
+        "<dt>cluster</dt><dd>" + esc(clusterLabel) + "</dd>" +
+        "<dt>status</dt><dd>" + esc(d.status || "-") + "</dd>" +
+        "<dt>video</dt><dd>" + esc(d.video || "-") + "</dd>" +
+        "<dt>flags</dt><dd class=\"flags\">" + flags + "</dd>";
+      card.hidden = false;
+      card.classList.add("open");
+    }
+
+    function closeCard() {
+      card.classList.remove("open");
+      card.hidden = true;
+    }
+
+    function esc(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    simulation.on("tick", () => {
+      link
+        .attr("x1", (d) => d.source.x)
+        .attr("y1", (d) => d.source.y)
+        .attr("x2", (d) => d.target.x)
+        .attr("y2", (d) => d.target.y);
+      node.attr("transform", (d) => "translate(" + d.x + "," + d.y + ")");
+      labels.attr("x", (d) => d.x).attr("y", (d) => d.y);
+    });
+
+    function dragstarted(event, d) {
+      if (!event.active) simulation.alphaTarget(0.25).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }
+    function dragged(event, d) {
+      d.fx = event.x;
+      d.fy = event.y;
+    }
+    function dragended(event, d) {
+      if (!event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
+
+    window.addEventListener("resize", () => {
+      svg.attr("width", width()).attr("height", height());
+      simulation.force("center", d3.forceCenter(width() / 2, height() / 2));
+      simulation.force("radial", d3.forceRadial((d) => 40 + d.layer * 78, width() / 2, height() / 2).strength(0.55));
+      simulation.alpha(0.3).restart();
+    });
+
+</script>
+</body>
+</html>
