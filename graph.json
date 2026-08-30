@@ -8539,17 +8539,32 @@
     {
       "id": "altcoinbonanza",
       "handle": "@altcoinbonanza",
-      "display": "altcoinbonanza",
+      "display": "Altcoinbonanza",
       "layer": 3,
       "cluster": "donna-giveaway",
-      "status": "seen",
+      "status": "walked",
       "role": "puppet",
       "celebrity": false,
       "flags": [
         "crypto-on-card",
-        "controller-candidate"
+        "controller-candidate",
+        "rounded-k-posts"
       ],
-      "video": "Jay: puppet master/controller/zombie candidate. NOT a Master until a second tree. Parent pending. Counts pending."
+      "video": "Already blocked. 2173/1457. About Guatemala / US App Store. Bio hidden so no geo-mismatch. altcoinbonanza Path A 2026-08-30 2:41 PM CT.",
+      "followers": 2173,
+      "following": 1457,
+      "verified": true,
+      "blocked": true,
+      "stack": "puppet",
+      "joined": "May 2013",
+      "about_based_in": "Guatemala",
+      "about_connected_via": "United States App Store",
+      "about_verified_since": "August 2024",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "bio": "visuals with consistency Open for CM & design roles",
+      "posts": 24200
     },
     {
       "id": "Meta_Pathfinder",
@@ -8594,6 +8609,192 @@
         "farmer-grammar"
       ],
       "video": "Jay: obvious bot/farmer, grammar. Parent pending. Counts pending."
+    },
+    {
+      "id": "jegalism",
+      "display": "WEB3CENT",
+      "bio": "AI enthusiast Python developer",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@jegalism",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "Suprabagonsupra",
+      "display": "SUPRABAG",
+      "bio": "MEMECOIN SUPRA CHAIN",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@Suprabagonsupra",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "alphadaoInspire",
+      "display": "INSPIRE",
+      "bio": "WEB 3 KOL",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@alphadaoInspire",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "Nicky_Blue_Eyez",
+      "display": "nicko.sol",
+      "bio": "JUP SOL BTC",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@Nicky_Blue_Eyez",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "Jewelzeyo",
+      "display": "Jilly",
+      "bio": "WEB3 EDUCATOR",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@Jewelzeyo",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "devmadcoin",
+      "display": "Mad Coin",
+      "bio": "IM $MAD ON $SOL",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@devmadcoin",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "HAFonKaspa",
+      "display": "HAFN",
+      "bio": "Fair-Launch KRC-20 Token on Kaspa",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@HAFonKaspa",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "kasknightDAG",
+      "display": "Kas Knight",
+      "bio": "",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@kasknightDAG",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "sammyf4arsenal",
+      "display": "Bruno Guimaraes39",
+      "bio": "Parody account",
+      "ranking_tags": [],
+      "flags": [],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@sammyf4arsenal",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
+    },
+    {
+      "id": "KASperiencexyz",
+      "display": "KASperience",
+      "bio": "Bitcoin is unfinished Kaspa",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "layer": 3,
+      "cluster": "jay-four",
+      "video": "VF of @altcoinbonanza (altcoinbonanza Path A 2026-08-30 2:41 PM CT)",
+      "handle": "@KASperiencexyz",
+      "status": "walked",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false
     }
   ],
   "edges": [
@@ -11485,6 +11686,56 @@
     {
       "source": "doge_albania",
       "target": "mayeprivate9252",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jegalism",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Suprabagonsupra",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "alphadaoInspire",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Nicky_Blue_Eyez",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Jewelzeyo",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "devmadcoin",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "HAFonKaspa",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kasknightDAG",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "sammyf4arsenal",
+      "target": "altcoinbonanza",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "KASperiencexyz",
+      "target": "altcoinbonanza",
       "type": "verified_follower_of"
     }
   ]
