@@ -7943,15 +7943,32 @@
       "cluster": "donna-giveaway",
       "stack": "puppet",
       "status": "walked",
-      "video": "Verified mask; Dummy Drill hopping VF. Verified mask of @DonnaCrous6abe. VF hop in progress. Not a Master.",
+      "video": "276/313. Card Solana (not a country). About Switzerland / Swiss App Store, verified Jul 2026, 3 username changes last Aug 2026. Geo-mismatch no. Block pending. LUFLFH Path A 2026-08-30 2:30 PM CT.",
       "handle": "@LUFLFH",
       "flags": [
-        "leftover-name"
+        "crypto-on-card",
+        "recycled-handle",
+        "leftover-name",
+        "joke-location",
+        "username-changes"
       ],
-      "ranking_tags": [],
+      "ranking_tags": [
+        "crypto"
+      ],
       "blocked": false,
       "celebrity": false,
-      "role": "puppet"
+      "role": "puppet",
+      "followers": 276,
+      "following": 313,
+      "verified": true,
+      "location": "Solana",
+      "joined": "December 2025",
+      "about_based_in": "Switzerland",
+      "about_connected_via": "Switzerland App Store",
+      "about_verified_since": "July 2026",
+      "bio": "Meme-born. Chain-pilled. $GOKHSHTEIN $OGGIE $RICK #LUFLFH",
+      "posts": 2292,
+      "username_changes": 3
     },
     {
       "id": "seedsmetabuild",
