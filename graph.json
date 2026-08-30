@@ -10411,23 +10411,33 @@
       "flags": [
         "crypto-on-card",
         "leftover-name",
-        "vf-row-hover"
+        "vf-row-hover",
+        "mute-stuck",
+        "rounded-k-posts"
       ],
       "ranking_tags": [
         "crypto"
       ],
-      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT) Live from Rockchilld2 VF: 23,065 followers, Thailand. Path A hop in flight 2026-08-30 3:32 PM CT. VF-row hover 23065, Thailand. Path A pending opened card. Puppet under Master @Rockchilld2, not a Master itself.",
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT) Live from Rockchilld2 VF: 23,065 followers, Thailand. Path A hop in flight 2026-08-30 3:32 PM CT. VF-row hover 23065, Thailand. Path A pending opened card. Puppet under Master @Rockchilld2, not a Master itself. Path A Puppet under Master @Rockchilld2. 23,065/17,591, 55K posts, joined Dec 2019. About Thailand/Thailand App Store, verified Mar 2024, 3 username changes last Dec 2025. Geo-mismatch no. Block failed (UI hijack, mute may still be on). VF 12 includes parent @Rockchilld2 already blocked; no new two-tree. Celebrity off. valerioshi Path A 2026-08-30 3:36 PM CT. Block landed on second pass 2026-08-30 3:37 PM CT. Mute may still be on. Reciprocal VF with parent @Rockchilld2 is mesh, not a new two-tree. Stays Puppet. Opened card 23065/17591, 55K posts HUD, joined Dec 2019. About Thailand / Thailand App Store, verified Mar 2024, 3 username changes. Geo-mismatch no. Celebrity off. Puppet under Master @Rockchilld2, not a Master. Reciprocal VF with parent is mesh, not a new two-tree. Rank under @RoseMakei 25178. Block landed second pass. Mute may still be on, do not unblock. Hopping @D22l2.",
       "handle": "@valerioshi",
       "layer": 4,
-      "cluster": "controller",
+      "cluster": "bridge",
       "status": "walked",
       "stack": "puppet",
-      "blocked": false,
+      "blocked": true,
       "celebrity": false,
-      "bio": "crypto Content & Growth, ex-CMO (OKX/Bybit/CoinGecko)",
+      "bio": "Content & Growth in Crypto for 8+ years | Ex-CMO | Worked with OKX · Bybit · CoinGecko · Magic Eden | Cohost of The Down Bad Show | ₿ + SOL | 🇹🇭",
       "role": "puppet",
       "followers": 23065,
-      "location": "Thailand"
+      "location": "Thailand",
+      "following": 17591,
+      "posts": 55000,
+      "joined": "December 2019",
+      "link": "youtube.com/@degenreports",
+      "about_based_in": "Thailand",
+      "about_connected_via": "Thailand App Store",
+      "about_verified_since": "March 2024",
+      "username_changes": 3
     },
     {
       "id": "2mrpc",
@@ -10617,6 +10627,202 @@
       "celebrity": false,
       "bio": "AI & content creator",
       "role": "puppet"
+    },
+    {
+      "id": "D22l2",
+      "display": "LUIS'",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@D22l2",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "SajadKvn",
+      "display": "Sajad base.eth",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@SajadKvn",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Hosnatra",
+      "display": "Hosna base.eth",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@Hosnatra",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "ManuarJahan",
+      "display": "Manuar Jahan Rana",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@ManuarJahan",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "0xHaasaan",
+      "display": "Hasan",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@0xHaasaan",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "wolky45",
+      "display": "MoMo",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@wolky45",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Coinzys1",
+      "display": "Coinzy",
+      "flags": [
+        "crypto-on-card"
+      ],
+      "ranking_tags": [
+        "crypto"
+      ],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@Coinzys1",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "dorvath4",
+      "display": "Dorvath",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@dorvath4",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Bullman0203",
+      "display": "Balleman",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@Bullman0203",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "IamMysticc",
+      "display": "Mystic",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT)",
+      "handle": "@IamMysticc",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "NathanMaor",
+      "display": "Nathan",
+      "flags": "",
+      "ranking_tags": [],
+      "video": "VF of Puppet @valerioshi (valerioshi Path A 2026-08-30 3:36 PM CT) Founder BeATigerNFT / MAYC #11238 from valerioshi VF.",
+      "handle": "@NathanMaor",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "bio": "Founder @BeATigerNFT, MAYC #11238",
+      "role": "puppet"
+    },
+    {
+      "id": "vallahovicreis",
+      "display": "Vallahovic",
+      "video": "VF of @valerioshi, live reshuffle onto top of list (valerioshi VF reshuffle 2026-08-30 3:38 PM CT)",
+      "handle": "@vallahovicreis",
+      "layer": 5,
+      "cluster": "bridge",
+      "status": "seen",
+      "stack": "puppet",
+      "flags": [],
+      "ranking_tags": [],
+      "blocked": false,
+      "celebrity": false
     }
   ],
   "edges": [
@@ -14068,6 +14274,71 @@
     {
       "source": "AizahFi",
       "target": "Rockchilld2",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "D22l2",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SajadKvn",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Hosnatra",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ManuarJahan",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "0xHaasaan",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "wolky45",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Coinzys1",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dorvath4",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Bullman0203",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "IamMysticc",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "NathanMaor",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rockchilld2",
+      "target": "valerioshi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "vallahovicreis",
+      "target": "valerioshi",
       "type": "verified_follower_of"
     }
   ]
