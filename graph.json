@@ -8579,7 +8579,7 @@
         "crypto-on-card",
         "joke-location"
       ],
-      "video": "202/1672/384. Card sol.eth.base joke. About pending. Meta_Pathfinder Path A 2026-08-30 2:42 PM CT. About US/US Android, geo-mismatch no. Block unconfirmed. Meta_Pathfinder VF full drill 2026-08-30 2:48 PM CT.",
+      "video": "202/1672/384. Card sol.eth.base joke. About pending. Meta_Pathfinder Path A 2026-08-30 2:42 PM CT. About US/US Android, geo-mismatch no. Block unconfirmed. Meta_Pathfinder VF full drill 2026-08-30 2:48 PM CT. Block landed (Blocked button on card).",
       "followers": 202,
       "following": 1672,
       "posts": 384,
@@ -8592,7 +8592,8 @@
         "crypto"
       ],
       "about_based_in": "United States",
-      "about_connected_via": "United States Android App"
+      "about_connected_via": "United States Android App",
+      "blocked": true
     },
     {
       "id": "Vibatron",
@@ -8617,18 +8618,32 @@
       "handle": "@Address_51",
       "display": "alena designs",
       "layer": 3,
-      "cluster": "donna-giveaway",
-      "status": "seen",
+      "cluster": "jay-four",
+      "status": "walked",
       "role": "zombie",
       "celebrity": false,
       "flags": [
+        "recycled-handle",
+        "crypto-on-card",
         "numbered-handle",
         "leftover-name",
         "farmer-grammar"
       ],
-      "video": "VF of @Meta_Pathfinder (Meta_Pathfinder VF full drill 2026-08-30 2:48 PM CT)",
-      "bio": "express myself via my art",
-      "ranking_tags": []
+      "video": "Artist leftover. 10,019/9,940. About South Asia/South Asia App Store. 5 username changes last Oct 2023. No card country so no geo-mismatch. VF of Meta_Pathfinder. Address_51 Path A 2026-08-30 2:50 PM CT. Already blocked. 12 VF logged, no Master. Address_51 VF 2026-08-30 2:52 PM CT.",
+      "bio": "express myself via my art because it never betrays my expectations",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "followers": 10019,
+      "following": 9940,
+      "verified": true,
+      "stack": "puppet",
+      "joined": "January 2022",
+      "location": "",
+      "about_based_in": "South Asia",
+      "about_connected_via": "South Asia App Store",
+      "about_verified_since": "July 2026",
+      "blocked": true
     },
     {
       "id": "jegalism",
@@ -9169,6 +9184,222 @@
       "handle": "@fiesssta33",
       "layer": 3,
       "cluster": "donna-giveaway",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "johndale234",
+      "display": "avoka",
+      "bio": "avokadick degen botter abuser cat lover",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@johndale234",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "nobackside",
+      "display": "de@dlyside",
+      "bio": "",
+      "ranking_tags": [],
+      "flags": [],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@nobackside",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Syu990",
+      "display": "我阿猫啊",
+      "bio": "Building SurfAI",
+      "ranking_tags": [],
+      "flags": [],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@Syu990",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "weut___",
+      "display": "weut.",
+      "bio": "Web3 DeFi Research writing Infographics Expert Space Host Gamer",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@weut___",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "laim511722",
+      "display": "jjang",
+      "bio": "If you do nothing, nothing will happen.",
+      "ranking_tags": [],
+      "flags": [],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@laim511722",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "jpegzen",
+      "display": "Aych",
+      "bio": "Detroit Sports",
+      "ranking_tags": [],
+      "flags": [],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@jpegzen",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Eth_1888",
+      "display": "Eth_1888BNB",
+      "bio": "5年的老韭菜",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@Eth_1888",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "DhionMises81800",
+      "display": "Dhionnxy",
+      "bio": "Web3 post gabut",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@DhionMises81800",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "club80d",
+      "display": "club 80d",
+      "bio": "Art Culture Entrepreneurship Crypto NFTs RWAs",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@club80d",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "Momoshi",
+      "display": "M0M0",
+      "bio": "OGSYC RaDBr0 THEM REDACTED THE REAL SPACE CATS",
+      "ranking_tags": [],
+      "flags": [],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@Momoshi",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "dillpickerz",
+      "display": "Pickerz",
+      "bio": "Eat rangercut",
+      "ranking_tags": [],
+      "flags": [],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@dillpickerz",
+      "layer": 4,
+      "cluster": "jay-four",
+      "status": "seen",
+      "stack": "puppet",
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "AINovaSkye",
+      "display": "Nova Skye (AI Model)",
+      "bio": "AI Crypto Model Web3 10 years crypto experience",
+      "ranking_tags": [
+        "crypto"
+      ],
+      "flags": [
+        "crypto-on-card"
+      ],
+      "video": "VF of @Address_51 (Address_51 VF 2026-08-30 2:52 PM CT)",
+      "handle": "@AINovaSkye",
+      "layer": 4,
+      "cluster": "jay-four",
       "status": "seen",
       "stack": "puppet",
       "blocked": false,
@@ -12220,6 +12451,66 @@
     {
       "source": "fiesssta33",
       "target": "Meta_Pathfinder",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "johndale234",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "nobackside",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Syu990",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "weut___",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "laim511722",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jpegzen",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Eth_1888",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DhionMises81800",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "club80d",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Momoshi",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dillpickerz",
+      "target": "Address_51",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "AINovaSkye",
+      "target": "Address_51",
       "type": "verified_follower_of"
     }
   ]
