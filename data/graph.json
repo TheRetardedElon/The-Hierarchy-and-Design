@@ -9633,29 +9633,49 @@
       "display": "Middle | Man",
       "layer": 0,
       "cluster": "kettlebell-dan",
-      "status": "pending-drill",
+      "status": "walked",
       "role": "puppet",
       "celebrity": false,
       "flags": [
+        "dan-named",
         "hybrid",
-        "controller-candidate"
+        "controller-candidate",
+        "leftover-name",
+        "midjourney",
+        "rounded-k"
       ],
-      "video": "Jay/Dan suspect hybrid 2026-08-30 3:00 PM CT. Not on S001-S005/Tommy/Donna/Meta. Not a Master until a second tree. Counts pending live card."
+      "video": "VF of @TonyJMatos (TonyJMatos VF corrected 2026-08-30 3:05 PM CT) below cap ~14 Live card 10.3K HUD / 1,832 / 18.1K posts. Midjourney curator leftover. Hover pending. VF of Tony ~14 same Dan cluster.",
+      "bio": "Visual DJ & Curator in collaboration with Midjourney. Exploring the realms of creativity with words, images, technology, and a little voodoo.",
+      "stack": "puppet",
+      "followers_hud": "10.3K",
+      "following": 1832,
+      "posts_hud": "18.1K",
+      "verified": true,
+      "joined": "November 2022",
+      "followers": 10300,
+      "posts": 18100
     },
     {
       "id": "SachinK80101150",
       "handle": "@SachinK80101150",
-      "display": "SachinK80101150",
+      "display": "Miya",
       "layer": 1,
       "cluster": "kettlebell-dan",
-      "status": "pending-drill",
+      "status": "pending",
       "role": "puppet",
       "celebrity": false,
       "flags": [
+        "dan-named",
+        "crypto-on-card",
         "numbered-handle",
-        "leftover-name"
+        "leftover-name",
+        "kol"
       ],
-      "video": "Jay/Dan other suspect. Not on existing clusters. Not a Master. Counts pending live card."
+      "video": "VF #7 of @TonyJMatos. Same Dan cluster. TonyJMatos VF corrected 2026-08-30 3:05 PM CT. 加密小美 Miya crypto KOL. Same-tree VF of @TonyJMatos, not a Master.",
+      "bio": "AI Agents DePIN Web3 KOL TG DM",
+      "ranking_tags": [
+        "crypto"
+      ]
     },
     {
       "id": "TonyJMatos",
@@ -9676,17 +9696,18 @@
         "rounded-k-posts"
       ],
       "status": "walked",
-      "video": "Dan named (wait are you a bot). 6,781/2,475, 59.7K posts HUD. Terra II joke not a country. Followed by Dan. TonyJMatos Path A 2026-08-30 3:02 PM CT. About May 2023 / US / verified Nov 2023 / ID verified / 1 username change. Terra II joke, geo-mismatch no. Dan named. Live 6781/2475, 59.7K posts HUD. Gigadream/beachpunk leftover. Terra II joke, geo-mismatch no. Joined May 2023 not 2008, US, verified Nov 2023, ID verified, 1 username change. Followed by Dan. Leftover Puppet, not a cheap Zombie, not a Master. VF two-tree vs MiddleManMe/Sachin pending.",
+      "video": "Dan named (wait are you a bot). 6,781/2,475, 59.7K posts HUD. Terra II joke not a country. Followed by Dan. TonyJMatos Path A 2026-08-30 3:02 PM CT. About May 2023 / US / verified Nov 2023 / ID verified / 1 username change. Terra II joke, geo-mismatch no. Dan named. Live 6781/2475, 59.7K posts HUD. Gigadream/beachpunk leftover. Terra II joke, geo-mismatch no. Joined May 2023 not 2008, US, verified Nov 2023, ID verified, 1 username change. Followed by Dan. Leftover Puppet, not a cheap Zombie, not a Master. VF two-tree vs MiddleManMe/Sachin pending. VF corrected: PwC/Infosys/Gap were not main-column. Real 8-12 kymcoffey player_truman PeakPulse2968 GamerTex BobbyJ_27. MiddleManMe ~14 same cluster. TonyJMatos VF corrected 2026-08-30 3:05 PM CT.",
       "handle": "@TonyJMatos",
       "layer": 1,
       "cluster": "kettlebell-dan",
       "ranking_tags": [],
-      "blocked": false,
+      "blocked": true,
       "about_based_in": "United States",
       "about_verified_since": "November 2023",
       "posts": 59700,
       "role": "puppet",
-      "username_changes": 1
+      "username_changes": 1,
+      "about_connected_via": "United States App Store"
     },
     {
       "id": "KettlebellDan",
@@ -9701,6 +9722,101 @@
       "ranking_tags": [],
       "blocked": false,
       "celebrity": false
+    },
+    {
+      "id": "kymcoffey",
+      "display": "kym coffey",
+      "bio": "Co Founder Metadata Society Enterprise AI Governance",
+      "flags": [
+        "leftover-name"
+      ],
+      "status": "seen",
+      "stack": "puppet",
+      "video": "VF of @TonyJMatos (TonyJMatos VF corrected 2026-08-30 3:05 PM CT)",
+      "handle": "@kymcoffey",
+      "layer": 2,
+      "cluster": "kettlebell-dan",
+      "ranking_tags": [],
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "player_truman",
+      "display": "Vibing Caveman",
+      "bio": "wagmi",
+      "flags": [
+        "crypto-on-card",
+        "leftover-name"
+      ],
+      "status": "seen",
+      "stack": "puppet",
+      "video": "VF of @TonyJMatos (TonyJMatos VF corrected 2026-08-30 3:05 PM CT)",
+      "handle": "@player_truman",
+      "layer": 2,
+      "cluster": "kettlebell-dan",
+      "ranking_tags": [],
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "PeakPulse2968",
+      "display": "PulsePeak",
+      "bio": "American 3 schnauzers mother of one son",
+      "flags": [
+        "numbered-handle",
+        "leftover-name"
+      ],
+      "status": "seen",
+      "stack": "puppet",
+      "video": "VF of @TonyJMatos (TonyJMatos VF corrected 2026-08-30 3:05 PM CT)",
+      "handle": "@PeakPulse2968",
+      "layer": 2,
+      "cluster": "kettlebell-dan",
+      "ranking_tags": [],
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "GamerTex",
+      "display": "GamerTex",
+      "bio": "Poker & Slots Click Link for Tesla",
+      "flags": [
+        "tesla-wrapper",
+        "tesla-bait",
+        "leftover-name"
+      ],
+      "status": "seen",
+      "stack": "zombie",
+      "video": "VF of @TonyJMatos (TonyJMatos VF corrected 2026-08-30 3:05 PM CT)",
+      "handle": "@GamerTex",
+      "layer": 2,
+      "cluster": "kettlebell-dan",
+      "ranking_tags": [],
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
+    },
+    {
+      "id": "BobbyJ_27",
+      "display": "Bobby J",
+      "bio": "100% Disabled U.S. Navy Med Retired",
+      "flags": [
+        "numbered-handle",
+        "leftover-name"
+      ],
+      "status": "seen",
+      "stack": "puppet",
+      "video": "VF of @TonyJMatos (TonyJMatos VF corrected 2026-08-30 3:05 PM CT)",
+      "handle": "@BobbyJ_27",
+      "layer": 2,
+      "cluster": "kettlebell-dan",
+      "ranking_tags": [],
+      "blocked": false,
+      "celebrity": false,
+      "role": "puppet"
     }
   ],
   "edges": [
@@ -12873,6 +12989,41 @@
       "source": "TonyJMatos",
       "target": "KettlebellDan",
       "type": "named_by"
+    },
+    {
+      "source": "SachinK80101150",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kymcoffey",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "player_truman",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "PeakPulse2968",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "GamerTex",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BobbyJ_27",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "MiddleManMe",
+      "target": "TonyJMatos",
+      "type": "verified_follower_of"
     }
   ]
 }
