@@ -15039,7 +15039,7 @@
       "flags": [
         "jay-named-hop"
       ],
-      "video": "Jay named 2026-09-01 6:06 PM CT. Dummy Drill walking. Counts pending live card. Not a Master until two-tree.",
+      "video": "Jay named 2026-09-01 6:06 PM CT. Dummy Drill walking. Counts pending live card. Not a Master until two-tree. Follows-you Elon-married bio 2026-09-01. Pending drill.",
       "followers": null
     },
     {
@@ -15801,6 +15801,253 @@
         "random-string-handle"
       ],
       "video": "follower of @5xyxh (5xyxh Path A 2026-09-01)"
+    },
+    {
+      "id": "elon62623",
+      "handle": "@elon62623",
+      "display": "Rocket Man",
+      "layer": 0,
+      "cluster": "elon62623",
+      "status": "walked",
+      "stack": "zombie",
+      "role": "zombie",
+      "followers": 20,
+      "following": 1199,
+      "posts": 3,
+      "bio": "CEO - Spacex Tesla Founder - The Boring Company Co-Founder",
+      "location": "",
+      "joined": "May 2008",
+      "about_based_in": "United States",
+      "about_connected_via": "United States App Store",
+      "about_verified_since": "",
+      "username_changes": 1,
+      "blocked": true,
+      "celebrity": false,
+      "flags": [
+        "elon-wrapper",
+        "impersonation-seed",
+        "leftover-2008-shell",
+        "username-change-jul-2026",
+        "follow-notify-seed",
+        "follow-inflation"
+      ],
+      "ranking_tags": [],
+      "video": "Follows-you on @TheRetardedElon. Exact 20/1,199/3. About United States / US App Store, joined May 2008, 1 username change Jul 2026. Geo-mismatch no. Blocked 2026-09-01 Path A. Celebrity off (impersonation). Zombie reactivated shell. No Masters on VF. Prior-blocked mesh @GroknRollX @heonkuk. elon62623 Path A 2026-09-01 ~6:40 PM CT."
+    },
+    {
+      "id": "QS1RIUS",
+      "handle": "@QS1RIUS",
+      "display": "QS1RIUS",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "GroknRollX",
+      "handle": "@GroknRollX",
+      "display": "GroknRollX",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "already-blocked-prior"
+      ],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "Hrolf777",
+      "handle": "@Hrolf777",
+      "display": "Hrolf777",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "BartB58915",
+      "handle": "@BartB58915",
+      "display": "BartB58915",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "heonkuk",
+      "handle": "@heonkuk",
+      "display": "heonkuk",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "already-blocked-prior"
+      ],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "EvansNobert",
+      "handle": "@EvansNobert",
+      "display": "EvansNobert",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "Orargentiumiere",
+      "handle": "@Orargentiumiere",
+      "display": "Orargentiumiere",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "DarrenHanlonx",
+      "handle": "@DarrenHanlonx",
+      "display": "DarrenHanlonx",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "OverThePlaces",
+      "handle": "@OverThePlaces",
+      "display": "OverThePlaces",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "MikeMechanicbur",
+      "handle": "@MikeMechanicbur",
+      "display": "MikeMechanicbur",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "helloooo2u",
+      "handle": "@helloooo2u",
+      "display": "helloooo2u",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "EmmaEliana088",
+      "handle": "@EmmaEliana088",
+      "display": "EmmaEliana088",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "Ro_brom",
+      "handle": "@Ro_brom",
+      "display": "Ro_brom",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "MadeleneDa15",
+      "handle": "@MadeleneDa15",
+      "display": "MadeleneDa15",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "FrancisZor9959",
+      "handle": "@FrancisZor9959",
+      "display": "FrancisZor9959",
+      "layer": 1,
+      "cluster": "elon62623",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @elon62623 (elon62623 Path A 2026-09-01)"
+    },
+    {
+      "id": "ClaraiaAlonso",
+      "handle": "@ClaraiaAlonso",
+      "display": "Musky",
+      "layer": 0,
+      "cluster": "named-suspect",
+      "status": "pending-drill",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "follow-notify",
+        "elon-themed"
+      ],
+      "video": "Follows-you Musky rocket light wrapper 2026-09-01 Path B notify. Pending drill."
     }
   ],
   "edges": [
@@ -21082,6 +21329,86 @@
     {
       "source": "S7i5FV0JOz6sV3A",
       "target": "5xyxh",
+      "type": "follower_of"
+    },
+    {
+      "source": "elon62623",
+      "target": "TheRetardedElon",
+      "type": "follows_observer"
+    },
+    {
+      "source": "QS1RIUS",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "GroknRollX",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Hrolf777",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BartB58915",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "heonkuk",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EvansNobert",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Orargentiumiere",
+      "target": "elon62623",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DarrenHanlonx",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "OverThePlaces",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "MikeMechanicbur",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "helloooo2u",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "EmmaEliana088",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "Ro_brom",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "MadeleneDa15",
+      "target": "elon62623",
+      "type": "follower_of"
+    },
+    {
+      "source": "FrancisZor9959",
+      "target": "elon62623",
       "type": "follower_of"
     }
   ]
