@@ -11965,9 +11965,9 @@
       "id": "alphafox",
       "display": "AlphaFox",
       "celebrity": false,
-      "stack": "zombie",
+      "stack": "puppet",
       "flags": [],
-      "video": "VF of @JC_LightRaider (JC_LightRaider VF rest+dummies 2026-09-01 5:27 PM CT)",
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)",
       "handle": "@alphafox",
       "layer": 4,
       "cluster": "dallasdeb14",
@@ -13624,35 +13624,31 @@
     },
     {
       "id": "Appraiser008",
-      "display": "🇨🇳 大牛🇨🇳",
+      "display": "Da Niu",
       "celebrity": false,
       "stack": "puppet",
-      "video": "VF/downstream of silvinaescudero→Appraiser008 named hop on dallasdeb14 tree. Live card 188.5K/9,119/69.1K. About Hong Kong, verified Apr 2026, ID Verified, 1 username change Oct 2021, connected via United States App Store. GEO-MISMATCH yes (HK profile/About vs US App Store). Blocked 2026-09-01 Path A. Celebrity off. No Masters on VF. VF includes Velora_xo and Bingzieryi (named next hops). 5xyxh not on this VF page. Appraiser008 Path A 2026-09-01 ~5:50 PM CT.",
+      "video": "VF of SupunChalu143. Live 188579. Hong Kong matches About. US App Store. Verified Apr 2026, joined Apr 2021, 1 username change Oct 2021. Geo-mismatch no. Celebrity off. Already blocked. VF 23: Velora_xo and Bingzieryi PRESENT, 5xyxh ABSENT. Appraiser008 Path A 2026-09-01 6:04 PM CT",
       "handle": "@Appraiser008",
       "layer": 3,
       "cluster": "dallasdeb14",
       "status": "walked",
       "flags": [
-        "geo-mismatch",
-        "leftover-shell",
-        "us-app-store-vs-hk",
-        "late-verify-apr-2026",
-        "follow-back-mesh",
-        "chinese-content"
+        "leftover-name"
       ],
       "ranking_tags": [],
       "blocked": true,
       "role": "puppet",
-      "followers": 188500,
+      "followers": 188579,
       "following": 9119,
-      "posts": 69100,
-      "bio": "Though a thousand ages stretch behind... (CN poem). Born May 8, 1988.",
+      "posts": "69.1K",
+      "bio": "Though a thousand ages stretch behind, Across the eight boundless wastes it lies; The path ahead is vast as the sea, And the days to come are long and wide.",
       "location": "Hong Kong",
       "joined": "April 2021",
       "about_based_in": "Hong Kong",
       "about_connected_via": "United States App Store",
       "about_verified_since": "April 2026",
-      "username_changes": 1
+      "username_changes": 1,
+      "born": "May 8, 1988"
     },
     {
       "id": "5xyxh",
@@ -13783,7 +13779,7 @@
     {
       "id": "ahmedspc05",
       "handle": "@ahmedspc05",
-      "display": "ahmedspc05",
+      "display": "ahmedspc",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13791,12 +13787,12 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "SRaisun42031",
       "handle": "@SRaisun42031",
-      "display": "SRaisun42031",
+      "display": "sunrai raisun",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13804,7 +13800,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "pan_long1993",
@@ -13817,12 +13813,12 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Archive_Kang",
       "handle": "@Archive_Kang",
-      "display": "Archive_Kang",
+      "display": "Archive Kang",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13830,7 +13826,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "paopaoksj",
@@ -13843,7 +13839,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Zaidiepcubu",
@@ -13856,7 +13852,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Gogog767",
@@ -13869,12 +13865,12 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Cocosuang",
       "handle": "@Cocosuang",
-      "display": "Cocosuang",
+      "display": "Teddy Bear",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13882,12 +13878,12 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "pxy181695572",
       "handle": "@pxy181695572",
-      "display": "pxy181695572",
+      "display": "pxy",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13895,7 +13891,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "wsall5209",
@@ -13908,27 +13904,46 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Velora_xo",
       "handle": "@Velora_xo",
-      "display": "Velora_xo",
+      "display": "Velora",
       "layer": 4,
       "cluster": "dallasdeb14",
-      "status": "seen",
+      "status": "walked",
       "stack": "puppet",
       "role": "puppet",
       "celebrity": false,
       "flags": [
-        "jay-named-hop"
+        "paid-promo",
+        "username-churn",
+        "late-verify-jul-2026",
+        "id-verified",
+        "crypto-on-card",
+        "web3-builder"
       ],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of @Appraiser008 on dallasdeb14 tree. Live card 41K/30.7K/82.4K. About South Asia / South Asia Android, verified Jul 2026, ID Verified, 4 username changes (last Mar 2026). Geo-mismatch no. Blocked 2026-09-01 Path A. Celebrity off. Crypto/Web3 paid-promo puppet. No Masters, Bingzieryi, or 5xyxh on VF. Prior-blocked @AB_geniuss on followers (same-cluster overlap). Velora_xo Path A 2026-09-01 ~6:05 PM CT.",
+      "followers": 41000,
+      "following": 30700,
+      "posts": 82400,
+      "bio": "Community First. Web3 Builder. Let's grow together. DM for Paid promotion / Collabs. Not financial advice",
+      "location": "",
+      "joined": "September 2024",
+      "about_based_in": "South Asia",
+      "about_connected_via": "South Asia Android App",
+      "about_verified_since": "July 2026",
+      "username_changes": 4,
+      "blocked": true,
+      "ranking_tags": [
+        "crypto"
+      ]
     },
     {
       "id": "0xarthurzs",
       "handle": "@0xarthurzs",
-      "display": "0xarthurzs",
+      "display": "Arthur C",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13936,7 +13951,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "ahamme35638",
@@ -13949,7 +13964,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "ansim_l",
@@ -13962,12 +13977,12 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Vignesh_Muthu7",
       "handle": "@Vignesh_Muthu7",
-      "display": "Vignesh_Muthu7",
+      "display": "Vignesh",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -13975,7 +13990,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "sohabnb",
@@ -13988,12 +14003,12 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Bingzieryi",
       "handle": "@Bingzieryi",
-      "display": "Bingzieryi",
+      "display": "web3",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -14003,12 +14018,12 @@
       "flags": [
         "jay-named-hop"
       ],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "H0peYin",
       "handle": "@H0peYin",
-      "display": "H0peYin",
+      "display": "Hope Yin",
       "layer": 4,
       "cluster": "dallasdeb14",
       "status": "seen",
@@ -14016,7 +14031,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Indexflowing",
@@ -14029,7 +14044,7 @@
       "role": "zombie",
       "celebrity": false,
       "flags": [],
-      "video": "VF of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)"
     },
     {
       "id": "Bai79547Han",
@@ -14175,6 +14190,809 @@
       "celebrity": false,
       "flags": [],
       "video": "follower of @Appraiser008 (Appraiser008 Path A 2026-09-01)"
+    },
+    {
+      "id": "Renzhuliu",
+      "display": "Xavier",
+      "celebrity": false,
+      "stack": "zombie",
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)",
+      "handle": "@Renzhuliu",
+      "layer": 4,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "flags": [],
+      "ranking_tags": [],
+      "blocked": false
+    },
+    {
+      "id": "Shawn_Farash",
+      "display": "Shawn Farash",
+      "celebrity": false,
+      "stack": "zombie",
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)",
+      "handle": "@Shawn_Farash",
+      "layer": 4,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "flags": [],
+      "ranking_tags": [],
+      "blocked": false
+    },
+    {
+      "id": "RealHughJackman",
+      "display": "Hugh Jackman",
+      "celebrity": true,
+      "stack": "puppet",
+      "video": "VF of Appraiser008 (Appraiser008 Path A 2026-09-01 6:04 PM CT)",
+      "handle": "@RealHughJackman",
+      "layer": 4,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "flags": [],
+      "ranking_tags": [],
+      "blocked": false
+    },
+    {
+      "id": "Quanvy779",
+      "handle": "@Quanvy779",
+      "display": "Quanvy779",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "HMingcoin",
+      "handle": "@HMingcoin",
+      "display": "HMingcoin",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "fw_chrissm",
+      "handle": "@fw_chrissm",
+      "display": "fw_chrissm",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "DanielRoyal11",
+      "handle": "@DanielRoyal11",
+      "display": "DanielRoyal11",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "amaechi6677",
+      "handle": "@amaechi6677",
+      "display": "amaechi6677",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "nifemiii01",
+      "handle": "@nifemiii01",
+      "display": "nifemiii01",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "YogiiiThakur",
+      "handle": "@YogiiiThakur",
+      "display": "YogiiiThakur",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Farhan776777",
+      "handle": "@Farhan776777",
+      "display": "Farhan776777",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Ruthessence02",
+      "handle": "@Ruthessence02",
+      "display": "Ruthessence02",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Berra35B",
+      "handle": "@Berra35B",
+      "display": "Berra35B",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "WayiiSJK",
+      "handle": "@WayiiSJK",
+      "display": "WayiiSJK",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "psalmpics",
+      "handle": "@psalmpics",
+      "display": "psalmpics",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "FaisalK_17wi",
+      "handle": "@FaisalK_17wi",
+      "display": "FaisalK_17wi",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "0xNahid",
+      "handle": "@0xNahid",
+      "display": "0xNahid",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Yesavage2HOF",
+      "handle": "@Yesavage2HOF",
+      "display": "Yesavage2HOF",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "kabdozzy",
+      "handle": "@kabdozzy",
+      "display": "kabdozzy",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "kwise275535",
+      "handle": "@kwise275535",
+      "display": "kwise275535",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "its__yogesh02",
+      "handle": "@its__yogesh02",
+      "display": "its__yogesh02",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "tiramisu",
+      "handle": "@tiramisu",
+      "display": "tiramisu",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "CTUoVFZOrX7CyE9",
+      "handle": "@CTUoVFZOrX7CyE9",
+      "display": "CTUoVFZOrX7CyE9",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "VF of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "makinwa_peter",
+      "handle": "@makinwa_peter",
+      "display": "makinwa_peter",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "MoistXBT",
+      "handle": "@MoistXBT",
+      "display": "MoistXBT",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "MzansiTouchline",
+      "handle": "@MzansiTouchline",
+      "display": "MzansiTouchline",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "neenornu",
+      "handle": "@neenornu",
+      "display": "neenornu",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "waqasrao1213855",
+      "handle": "@waqasrao1213855",
+      "display": "waqasrao1213855",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Akinsanyai1387",
+      "handle": "@Akinsanyai1387",
+      "display": "Akinsanyai1387",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Daniel_klaus24k",
+      "handle": "@Daniel_klaus24k",
+      "display": "Daniel_klaus24k",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Ov_Gnart",
+      "handle": "@Ov_Gnart",
+      "display": "Ov_Gnart",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "sabilmeisita",
+      "handle": "@sabilmeisita",
+      "display": "sabilmeisita",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "mymemorymyworld",
+      "handle": "@mymemorymyworld",
+      "display": "mymemorymyworld",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Beckinova",
+      "handle": "@Beckinova",
+      "display": "Beckinova",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "minnieminn5xcy",
+      "handle": "@minnieminn5xcy",
+      "display": "minnieminn5xcy",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "EmmyRobin22",
+      "handle": "@EmmyRobin22",
+      "display": "EmmyRobin22",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "flumpool1fly",
+      "handle": "@flumpool1fly",
+      "display": "flumpool1fly",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Kaborloobari12",
+      "handle": "@Kaborloobari12",
+      "display": "Kaborloobari12",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Zizipaim",
+      "handle": "@Zizipaim",
+      "display": "Zizipaim",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers"
+      ],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "888jj99",
+      "handle": "@888jj99",
+      "display": "888jj99",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Rachealjaz",
+      "handle": "@Rachealjaz",
+      "display": "Rachealjaz",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "YerebabariB",
+      "handle": "@YerebabariB",
+      "display": "YerebabariB",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Neeasua",
+      "handle": "@Neeasua",
+      "display": "Neeasua",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "wantan_toushi",
+      "handle": "@wantan_toushi",
+      "display": "wantan_toushi",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "_29_yy",
+      "handle": "@_29_yy",
+      "display": "_29_yy",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "myrileaf",
+      "handle": "@myrileaf",
+      "display": "myrileaf",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "OBFXz3",
+      "handle": "@OBFXz3",
+      "display": "OBFXz3",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "solila81",
+      "handle": "@solila81",
+      "display": "solila81",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "BillionaireofPH",
+      "handle": "@BillionaireofPH",
+      "display": "BillionaireofPH",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Rovartales",
+      "handle": "@Rovartales",
+      "display": "Rovartales",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "coreboy_crypto",
+      "handle": "@coreboy_crypto",
+      "display": "coreboy_crypto",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "ZaraIqbaal",
+      "handle": "@ZaraIqbaal",
+      "display": "ZaraIqbaal",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "yo_nphratn24346",
+      "handle": "@yo_nphratn24346",
+      "display": "yo_nphratn24346",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "polapola98",
+      "handle": "@polapola98",
+      "display": "polapola98",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "GoodluckKi04",
+      "handle": "@GoodluckKi04",
+      "display": "GoodluckKi04",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "BadAss_19J",
+      "handle": "@BadAss_19J",
+      "display": "BadAss_19J",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "Scanner_3D",
+      "handle": "@Scanner_3D",
+      "display": "Scanner_3D",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "AB_geniuss",
+      "handle": "@AB_geniuss",
+      "display": "AB_geniuss",
+      "layer": 5,
+      "cluster": "dallasdeb14",
+      "status": "seen",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "already-blocked-prior"
+      ],
+      "video": "follower of @Velora_xo (Velora_xo Path A 2026-09-01)"
+    },
+    {
+      "id": "HanEr2069575",
+      "handle": "@HanEr2069575",
+      "display": "HanEr2069575",
+      "layer": 3,
+      "cluster": "named-suspect",
+      "status": "pending-drill",
+      "role": null,
+      "celebrity": false,
+      "flags": [
+        "jay-named-hop"
+      ],
+      "video": "Jay named 2026-09-01 6:06 PM CT. Dummy Drill walking. Counts pending live card. Not a Master until two-tree."
+    },
+    {
+      "id": "Clariaalonso",
+      "handle": "@Clariaalonso",
+      "display": "Clariaalonso",
+      "layer": 3,
+      "cluster": "named-suspect",
+      "status": "pending-drill",
+      "role": null,
+      "celebrity": false,
+      "flags": [
+        "jay-named-hop"
+      ],
+      "video": "Jay named 2026-09-01 6:06 PM CT. Dummy Drill walking. Counts pending live card. Not a Master until two-tree."
+    },
+    {
+      "id": "AdrianneMabby",
+      "handle": "@AdrianneMabby",
+      "display": "AdrianneMabby",
+      "layer": 3,
+      "cluster": "named-suspect",
+      "status": "pending-drill",
+      "role": null,
+      "celebrity": false,
+      "flags": [
+        "jay-named-hop"
+      ],
+      "video": "Jay named 2026-09-01 6:06 PM CT. Dummy Drill walking. Counts pending live card. Not a Master until two-tree."
     }
   ],
   "edges": [
@@ -18866,6 +19684,301 @@
     {
       "source": "allen27410505",
       "target": "Appraiser008",
+      "type": "follower_of"
+    },
+    {
+      "source": "Renzhuliu",
+      "target": "Appraiser008",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Shawn_Farash",
+      "target": "Appraiser008",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RealHughJackman",
+      "target": "Appraiser008",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "alphafox",
+      "target": "Appraiser008",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Quanvy779",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "HMingcoin",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "fw_chrissm",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DanielRoyal11",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "amaechi6677",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "nifemiii01",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "YogiiiThakur",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Farhan776777",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Ruthessence02",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Berra35B",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "WayiiSJK",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "psalmpics",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "FaisalK_17wi",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "0xNahid",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Yesavage2HOF",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kabdozzy",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kwise275535",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "its__yogesh02",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tiramisu",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CTUoVFZOrX7CyE9",
+      "target": "Velora_xo",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "makinwa_peter",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "MoistXBT",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "MzansiTouchline",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "neenornu",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "waqasrao1213855",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Akinsanyai1387",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Daniel_klaus24k",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Ov_Gnart",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "sabilmeisita",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "mymemorymyworld",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Beckinova",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "minnieminn5xcy",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "EmmyRobin22",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "flumpool1fly",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Kaborloobari12",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Zizipaim",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "888jj99",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Rachealjaz",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "YerebabariB",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Neeasua",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "wantan_toushi",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "_29_yy",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "myrileaf",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "OBFXz3",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "solila81",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "BillionaireofPH",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Rovartales",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "coreboy_crypto",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "ZaraIqbaal",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "yo_nphratn24346",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "polapola98",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "GoodluckKi04",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "BadAss_19J",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "Scanner_3D",
+      "target": "Velora_xo",
+      "type": "follower_of"
+    },
+    {
+      "source": "AB_geniuss",
+      "target": "Velora_xo",
       "type": "follower_of"
     }
   ]
