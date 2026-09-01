@@ -5325,7 +5325,7 @@
       "display": "C L A R A",
       "layer": 2,
       "cluster": "elon-wrapper-hit",
-      "status": "walked",
+      "status": "controller-bridge",
       "flags": [
         "controller-bridge",
         "two-tree",
@@ -5334,9 +5334,10 @@
       "blocked": false,
       "stack": "master",
       "ranking_tags": [],
-      "video": "VF of celebrity-hybrid @silvinaescudero (silvinaescudero Path A 2026-09-01 5:31 PM CT) TWO-TREE LIVE S004 pankajparkar + silvinaescudero/dallasdeb14. Promoted Master. Celebrity off. silvinaescudero Path A 2026-09-01 5:31 PM CT.",
+      "video": "VF of celebrity-hybrid @silvinaescudero (silvinaescudero Path A 2026-09-01 5:31 PM CT) TWO-TREE LIVE S004 pankajparkar + silvinaescudero/dallasdeb14. Promoted Master. Celebrity off. silvinaescudero Path A 2026-09-01 5:31 PM CT. TWO-TREE LIVE Master: VF of S004 @pankajparkar AND VF of @silvinaescudero (dallasdeb14 tree). Celebrity off. Hover integer pending.",
       "bio": "Crypto Trader… #DYOR",
-      "celebrity": false
+      "celebrity": false,
+      "role": "master"
     },
     {
       "id": "kssiddhu",
@@ -10652,15 +10653,15 @@
         "two-tree-live"
       ],
       "ranking_tags": [],
-      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT) TWO-TREE LIVE Rockchilld2 (Tony+Meta) + silvinaescudero followers. Promoted Master. Celebrity off. silvinaescudero Path A 2026-09-01 5:31 PM CT.",
+      "video": "VF of Master @Rockchilld2 (Rockchilld2 VF 2026-08-30 3:30 PM CT) TWO-TREE LIVE Rockchilld2 (Tony+Meta) + silvinaescudero followers. Promoted Master. Celebrity off. silvinaescudero Path A 2026-09-01 5:31 PM CT. TWO-TREE LIVE Master: VF of @Rockchilld2 AND on @silvinaescudero /followers (not VF). Celebrity off. Hover integer pending.",
       "handle": "@junkribi",
       "layer": 4,
       "cluster": "controller",
-      "status": "seen",
+      "status": "controller-bridge",
       "stack": "master",
       "blocked": false,
       "celebrity": false,
-      "role": "puppet"
+      "role": "master"
     },
     {
       "id": "AizahFi",
@@ -11735,20 +11736,19 @@
       "flags": [
         "crypto-on-card",
         "geo-mismatch",
-        "celebrity-hybrid",
         "leftover-name"
       ],
       "ranking_tags": [
         "crypto"
       ],
-      "video": "VF of @JC_LightRaider. Live 759,436. Argentina on card vs About Venezuela / Uruguay App Store. GEO-MISMATCH. Real Argentine TV leftover, celebrity on, crypto shill overlay. Joined Jun 2010, verified Feb 2016. Blocked. VF 17 includes named DDKing987 #2, PlayW3_ #10, SupunChalu143 #17. TWO-TREE: @clara_1s also VF of S004 pankajparkar; @junkribi also VF of Master Rockchilld2. silvinaescudero Path A 2026-09-01 5:31 PM CT.",
+      "video": "VF of @JC_LightRaider. Live 759,436. Argentina on card vs About Venezuela / Uruguay App Store. GEO-MISMATCH. Real Argentine TV leftover, celebrity on, crypto shill overlay. Joined Jun 2010, verified Feb 2016. Blocked. VF 17 includes named DDKing987 #2, PlayW3_ #10, SupunChalu143 #17. TWO-TREE: @clara_1s also VF of S004 pankajparkar; @junkribi also VF of Master Rockchilld2. silvinaescudero Path A 2026-09-01 5:31 PM CT. Architecture 2026-09-01: leftover-name of Argentine TV, not the actual public figure, celebrity OFF. Geo-mismatch Argentina vs About Venezuela/Uruguay App Store. 759,436 hover. Crypto overlay. VF 17 walked. Not a Master. Assassin lock 2026-09-01 5:36 PM CT: leftover Puppet, celebrity OFF unless the card is proven the actual Argentine TV person. Geo-mismatch stays. clara_1s + junkribi are the Masters.",
       "handle": "@silvinaescudero",
       "layer": 3,
       "cluster": "dallasdeb14",
       "status": "seen",
       "stack": "puppet",
       "blocked": true,
-      "celebrity": true,
+      "celebrity": false,
       "role": "puppet",
       "bio": "From TV screens to the blockchain | #Memecoin mastermind | #Crypto Influencer | Dancing with the future of finance",
       "location": "Argentina",
