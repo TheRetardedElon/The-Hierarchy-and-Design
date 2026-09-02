@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 9: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo. @Velora_xo two-tree VF of @Appraiser008 (dallasdeb14) AND VF of dummy @Khalidqckc under @elon135942. Celebrity off, 41045. Do not promote other dummy-mask VF of Khalidqckc as Masters. @vovweb3 leftover crypto Puppet 2248/318/13.6K Ukraine, geo-mismatch no, VF 20 no two-tree, followers sample 48 of 2248. @elon135942 Zombie giveaway wrapper 9/0/2215. Two Jay hits done. Pause holds after this write. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 9: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo. @beyoncegarden leftover stan/fan Puppet 372228/555/78.9K, celebrity OFF (not the actual Beyoncé), not a Master. US/US App Store, geo-mismatch no. VF 20 listed, no two-tree vs 9 Masters (Johnfreakguy is not johnjgreen89822). /followers stalled 69 of 372228. Dummy Drill hopping suspect VF next. Gold stays 9 until a real two-tree. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -75,6 +75,10 @@
     "elon135942-giveaway": {
       "label": "Elon giveaway wrapper @elon135942",
       "color": "#c45a3a"
+    },
+    "beyonce-stan": {
+      "label": "Beyoncé leftover stan/fan @beyoncegarden (not the person)",
+      "color": "#c9a227"
     }
   },
   "nodes": [
@@ -18485,6 +18489,431 @@
         "not-hopped"
       ],
       "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "beyoncegarden",
+      "handle": "@beyoncegarden",
+      "display": "beyoncegarden",
+      "layer": 0,
+      "cluster": "beyonce-stan",
+      "status": "walked",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "jay-named-hop",
+        "leftover-name",
+        "stan-fan-account",
+        "high-follower",
+        "blue-verified",
+        "jay-named-hit",
+        "stan-fan",
+        "rounded-k-posts",
+        "location-promo-not-country"
+      ],
+      "blocked": true,
+      "video": "LOCK 2026-09-02 1:58 AM CT leftover stan/fan Puppet, celebrity OFF (not the actual Beyoncé), not a Master. Live 372228 followers / 555 following / 78.9K posts. Blue verified. Bio pop-culture fan. Location field promo not a country. About United States / United States App Store, joined Aug 2021, verified Jan 2023, 2 username changes last Aug 2021. Geo-mismatch no. Blocked this pass. with_replies person-shaped stan chatter. VF 20 listed, no two-tree vs 9 Masters (Johnfreakguy is not @johnjgreen89822). /followers stalled 69 of 372228, not a full swarm. Dummy Drill hopping suspect VF next.",
+      "followers": 372228,
+      "following": 555,
+      "posts": "78.9K",
+      "verified": true,
+      "joined": "August 2021",
+      "location": "",
+      "about_based_in": "United States",
+      "about_connected_via": "United States App Store",
+      "about_verified_since": "January 2023",
+      "username_changes": 2,
+      "bio": "pop-culture fan",
+      "ranking_tags": []
+    },
+    {
+      "id": "Huong_mochil",
+      "handle": "@Huong_mochil",
+      "display": "HươngMochi",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "Johnfreakguy",
+      "handle": "@Johnfreakguy",
+      "display": "John S",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "justmeforlife19",
+      "handle": "@justmeforlife19",
+      "display": "k",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "SixteenInMono",
+      "handle": "@SixteenInMono",
+      "display": "SixteenInMono",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "Moneyyfetishhh",
+      "handle": "@Moneyyfetishhh",
+      "display": "Amberny",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "DannyGoatb0724",
+      "handle": "@DannyGoatb0724",
+      "display": "danny williams",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "_J_SAiNT",
+      "handle": "@_J_SAiNT",
+      "display": "JACE SA!NT",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "AlexisFGuerrero",
+      "handle": "@AlexisFGuerrero",
+      "display": "Alexis F. Guerrero",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "jds1824300",
+      "handle": "@jds1824300",
+      "display": "kloudynights",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "joel_vxel",
+      "handle": "@joel_vxel",
+      "display": "J O W E",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "TRUMPMAGAKAG",
+      "handle": "@TRUMPMAGAKAG",
+      "display": "Springfield Haitin",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "JasonHo60127051",
+      "handle": "@JasonHo60127051",
+      "display": "Jason Holloway",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "SantiRees",
+      "handle": "@SantiRees",
+      "display": "X Santien Patrick Pierini Rees's Prepared",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "bottomhorny_cr",
+      "handle": "@bottomhorny_cr",
+      "display": "Mike Gi (+7500 Follows)",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "juniwidda8inch",
+      "handle": "@juniwidda8inch",
+      "display": "8.5\"",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "ZZ_cnx",
+      "handle": "@ZZ_cnx",
+      "display": "ZZ",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "KingTut9111",
+      "handle": "@KingTut9111",
+      "display": "King Tut",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "Matazzum",
+      "handle": "@Matazzum",
+      "display": "Jazmyne",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Not hopped yet."
+    },
+    {
+      "id": "Shikhr25",
+      "handle": "@Shikhr25",
+      "display": "knowledgeadda",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "Keith97097",
+      "handle": "@Keith97097",
+      "display": "Keith",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "queued",
+      "celebrity": false,
+      "flags": [
+        "vf-of-beyoncegarden",
+        "suspect-to-hop"
+      ],
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+    },
+    {
+      "id": "B7Album",
+      "handle": "@B7Album",
+      "display": "B7Album",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "beyoncepress",
+      "handle": "@beyoncepress",
+      "display": "beyoncepress",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "msyonceslay",
+      "handle": "@msyonceslay",
+      "display": "msyonceslay",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "THUGGABEY",
+      "handle": "@THUGGABEY",
+      "display": "THUGGABEY",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "yoncecapital",
+      "handle": "@yoncecapital",
+      "display": "yoncecapital",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "TheTitanBaddie",
+      "handle": "@TheTitanBaddie",
+      "display": "TheTitanBaddie",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "purethiquekj",
+      "handle": "@purethiquekj",
+      "display": "purethiquekj",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "M3GAN_E_KNOWLES",
+      "handle": "@M3GAN_E_KNOWLES",
+      "display": "M3GAN_E_KNOWLES",
+      "layer": 1,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "verified-on-followers",
+        "leftover-beyonce-name",
+        "not-hopped"
+      ],
+      "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
     }
   ],
   "edges": [
@@ -24681,6 +25110,146 @@
     {
       "source": "Elara_Yc7",
       "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Huong_mochil",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Johnfreakguy",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "justmeforlife19",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SixteenInMono",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Moneyyfetishhh",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DannyGoatb0724",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "_J_SAiNT",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "AlexisFGuerrero",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jds1824300",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "joel_vxel",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TRUMPMAGAKAG",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JasonHo60127051",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SantiRees",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "bottomhorny_cr",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "juniwidda8inch",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ZZ_cnx",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "KingTut9111",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Matazzum",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Shikhr25",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Keith97097",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "B7Album",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "beyoncepress",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "msyonceslay",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "THUGGABEY",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "yoncecapital",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TheTitanBaddie",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "purethiquekj",
+      "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "M3GAN_E_KNOWLES",
+      "target": "beyoncegarden",
       "type": "verified_follower_of"
     }
   ]
