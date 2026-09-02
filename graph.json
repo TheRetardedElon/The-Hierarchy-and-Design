@@ -2,7 +2,7 @@
   "updated": "2026-09-02",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 9: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo. @beyoncegarden leftover stan/fan Puppet 372228/555/78.9K, celebrity OFF (not the actual Beyoncé), not a Master. US/US App Store, geo-mismatch no. VF 20 listed, no two-tree vs 9 Masters (Johnfreakguy is not johnjgreen89822). /followers stalled 69 of 372228. Dummy Drill hopping suspect VF next. Gold stays 9 until a real two-tree. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 9: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo. @beyoncegarden leftover stan/fan Puppet 372228 celebrity OFF not the person. @DannyGoatb0724 leftover empty-bio Puppet 95/1147/171, VF of @beyoncegarden, celebrity off, not a Master. VF 16, @beyoncegarden absent from that VF. No two-tree vs 9 Masters. Gold stays 9. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -18596,14 +18596,33 @@
       "handle": "@DannyGoatb0724",
       "display": "danny williams",
       "layer": 1,
-      "cluster": "beyoncegarden",
-      "status": "queued",
+      "cluster": "beyonce-stan",
+      "status": "walked",
       "celebrity": false,
       "flags": [
         "vf-of-beyoncegarden",
-        "suspect-to-hop"
+        "leftover-name",
+        "empty-bio",
+        "late-verify-jul-2026",
+        "nsfw-posts",
+        "follow-heavy",
+        "blue-verified"
       ],
-      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued. VF of @beyoncegarden. Leftover empty-bio puppet, celebrity off. Live 95 / 1147 / 171. Blue verified. About United States / United States App Store, joined May 2026, verified Jul 2026, 1 username change last Jul 2026. Geo-mismatch no. Blocked. VF 16, parent beyoncegarden absent. No two-tree vs 9 Masters. /followers stalled 47 of 95. Path A 2026-09-02 ~2:04 AM CT. LOCK 2026-09-02 2:05 AM CT leftover empty-bio Puppet, celebrity off, not a Master. Live 95/1147/171. Blue verified. About United States / United States App Store, joined May 2026, verified Jul 2026, 1 username change Jul 2026. Geo-mismatch no. Blocked. VF 16, @beyoncegarden absent from that VF. No two-tree vs 9 Masters. Parent is VF of @beyoncegarden. Gold stays 9.",
+      "stack": "puppet",
+      "role": "puppet",
+      "blocked": true,
+      "followers": 95,
+      "following": 1147,
+      "posts": 171,
+      "verified": true,
+      "joined": "May 2026",
+      "location": "",
+      "about_based_in": "United States",
+      "about_connected_via": "United States App Store",
+      "about_verified_since": "July 2026",
+      "username_changes": 1,
+      "bio": ""
     },
     {
       "id": "_J_SAiNT",
@@ -18914,6 +18933,230 @@
         "not-hopped"
       ],
       "video": "Verified handle on @beyoncegarden /followers sample 2026-09-02. Leftover Beyoncé-name mask layer. Not Path A yet."
+    },
+    {
+      "id": "annycurvy69",
+      "handle": "@annycurvy69",
+      "display": "Anny",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "RevoGangSta777",
+      "handle": "@RevoGangSta777",
+      "display": "Revolutionary Gansta",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "IamMzilikazi",
+      "handle": "@IamMzilikazi",
+      "display": "Mzilikazi wa Afrika",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "SURGERYX5PROMO",
+      "handle": "@SURGERYX5PROMO",
+      "display": "JOIN OUR FREE NSFW PROMO COMMUNITY",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "FatmaTee25",
+      "handle": "@FatmaTee25",
+      "display": "ExoticTee",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "immScarlett",
+      "handle": "@immScarlett",
+      "display": "Scarlett",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Mexxxicoamateur",
+      "handle": "@Mexxxicoamateur",
+      "display": "Mexxxico amateur",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Masborneo9",
+      "handle": "@Masborneo9",
+      "display": "MAS BORNEO",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "im_roczana",
+      "handle": "@im_roczana",
+      "display": "Roczana",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Robiiiiworld",
+      "handle": "@Robiiiiworld",
+      "display": "Rob Crazy",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "BrainOnCopilot",
+      "handle": "@BrainOnCopilot",
+      "display": "BrainOnCopilot",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "fatal_touch_",
+      "handle": "@fatal_touch_",
+      "display": "VENOM • TAP IN",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Alvarend7",
+      "handle": "@Alvarend7",
+      "display": "Arsha",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Entre4Olhares",
+      "handle": "@Entre4Olhares",
+      "display": "Entre 4 Olhares",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "wetladyuk",
+      "handle": "@wetladyuk",
+      "display": "Real Ms. Wett",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Erngee114",
+      "handle": "@Erngee114",
+      "display": "Erngee",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-DannyGoatb0724",
+        "not-hopped"
+      ],
+      "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
     }
   ],
   "edges": [
@@ -25250,6 +25493,86 @@
     {
       "source": "M3GAN_E_KNOWLES",
       "target": "beyoncegarden",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "annycurvy69",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RevoGangSta777",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "IamMzilikazi",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SURGERYX5PROMO",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "FatmaTee25",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "immScarlett",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Mexxxicoamateur",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Masborneo9",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "im_roczana",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Robiiiiworld",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BrainOnCopilot",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "fatal_touch_",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Alvarend7",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Entre4Olhares",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "wetladyuk",
+      "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Erngee114",
+      "target": "DannyGoatb0724",
       "type": "verified_follower_of"
     }
   ]
