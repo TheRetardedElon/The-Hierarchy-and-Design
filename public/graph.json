@@ -2,7 +2,7 @@
   "updated": "2026-09-02",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 11: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo @SirFlyzalot @SSzroborz. @SirFlyzalot two-tree VF tommychinc10941 (ceomusk-wrapper) AND dummy hilk35851 under elon135942. Celebrity off, hover pending. @SSzroborz two-tree VF johnjgreen89822 AND dummy TDavi33 under elon135942. Celebrity off, hover pending. @JohnnyDepps5b impersonation leftover Zombie, not the real Depp, not a Master. Do not promote valerioshi mesh, AdtFrh34220, Qaws_4, S004 mesh, elon135942 dummy-mesh. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 11: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo @SirFlyzalot @SSzroborz. @beyoncegarden leftover stan/fan Puppet 372228 celebrity OFF. @JasonHo60127051 leftover empty-bio Puppet 197/725/484 VF of beyoncegarden, celebrity off, not a Master. VF 12 complete, no overlap vs 11 Masters. Gold stays 11. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -18721,14 +18721,30 @@
       "handle": "@JasonHo60127051",
       "display": "Jason Holloway",
       "layer": 1,
-      "cluster": "beyoncegarden",
-      "status": "queued",
+      "cluster": "beyonce-stan",
+      "status": "walked",
       "celebrity": false,
       "flags": [
         "vf-of-beyoncegarden",
-        "suspect-to-hop"
+        "numbered-handle",
+        "empty-bio",
+        "late-verify-aug-2026",
+        "blue-verified"
       ],
-      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued. Numbered VF of @beyoncegarden. Leftover empty-bio puppet, celebrity off. Live 197 / 725 / 484. Blue verified. About United States / United States App Store, joined Jul 2020, verified Aug 2026. Geo-mismatch no. Already blocked. VF 12 complete, no overlap vs 11 Masters or leftover puppets, parent beyoncegarden absent. /followers stalled 47 of 197. Path A 2026-09-02 ~2:17 AM CT. LOCK 2026-09-02 2:18 AM CT leftover empty-bio Puppet, celebrity off, not a Master. Live 197/725/484. Blue verified. About United States / United States App Store, joined Jul 2020, verified Aug 2026. Geo-mismatch no. Already blocked. VF 12 complete, no overlap vs 11 Masters, no leftover-puppet overlap. @beyoncegarden absent from its VF. Parent is VF of @beyoncegarden. Gold stays 11.",
+      "stack": "puppet",
+      "role": "puppet",
+      "blocked": true,
+      "followers": 197,
+      "following": 725,
+      "posts": 484,
+      "verified": true,
+      "joined": "July 2020",
+      "location": "",
+      "about_based_in": "United States",
+      "about_connected_via": "United States App Store",
+      "about_verified_since": "August 2026",
+      "bio": ""
     },
     {
       "id": "SantiRees",
@@ -19182,6 +19198,175 @@
         "not-hopped"
       ],
       "video": "VF of @DannyGoatb0724. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "USA_Patriot_GOP",
+      "handle": "@USA_Patriot_GOP",
+      "display": "@AmericaWithTrump",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "SmolfSmolf7",
+      "handle": "@SmolfSmolf7",
+      "display": "Jacson A Felts pi",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "BubbatheOG",
+      "handle": "@BubbatheOG",
+      "display": "Bubba",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "LagrimaChristi",
+      "handle": "@LagrimaChristi",
+      "display": "The Millstone Project",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "V_Lady2024",
+      "handle": "@V_Lady2024",
+      "display": "Lady V",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Based1717",
+      "handle": "@Based1717",
+      "display": "FOXX",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "DisrespectedThe",
+      "handle": "@DisrespectedThe",
+      "display": "The Disrespected Trucker",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "TonyLaneNV",
+      "handle": "@TonyLaneNV",
+      "display": "Tony Lane",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "JohnCena",
+      "handle": "@JohnCena",
+      "display": "John Cena",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped",
+        "leftover-name"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "FaceFuckingPorn",
+      "handle": "@FaceFuckingPorn",
+      "display": "Extreme Face Fuck Queen - Hottest Deepthroat Vids",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "KingDivine315",
+      "handle": "@KingDivine315",
+      "display": "Divine Audio Kings",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Its_xWARx",
+      "handle": "@Its_xWARx",
+      "display": "Its_xWARx",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-JasonHo60127051",
+        "not-hopped"
+      ],
+      "video": "VF of @JasonHo60127051. Logged 2026-09-02. Not Path A."
     }
   ],
   "edges": [
@@ -25598,6 +25783,66 @@
     {
       "source": "Erngee114",
       "target": "DannyGoatb0724",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "USA_Patriot_GOP",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SmolfSmolf7",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BubbatheOG",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "LagrimaChristi",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "V_Lady2024",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Based1717",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DisrespectedThe",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TonyLaneNV",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JohnCena",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "FaceFuckingPorn",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "KingDivine315",
+      "target": "JasonHo60127051",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Its_xWARx",
+      "target": "JasonHo60127051",
       "type": "verified_follower_of"
     }
   ]
