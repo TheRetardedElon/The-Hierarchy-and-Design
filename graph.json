@@ -2,7 +2,7 @@
   "updated": "2026-09-02",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 9: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo. @beyoncegarden leftover stan/fan Puppet 372228 celebrity OFF. @DannyGoatb0724 leftover empty-bio Puppet 95/1147/171 VF of beyoncegarden. @jds1824300 leftover protected Puppet 14/283/44, blue+lock, VF/followers redirect, two-tree unproven, parent VF of beyoncegarden. Gold stays 9. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 11: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo @SirFlyzalot @SSzroborz. @SirFlyzalot two-tree VF tommychinc10941 (ceomusk-wrapper) AND dummy hilk35851 under elon135942. Celebrity off, hover pending. @SSzroborz two-tree VF johnjgreen89822 AND dummy TDavi33 under elon135942. Celebrity off, hover pending. @JohnnyDepps5b impersonation leftover Zombie, not the real Depp, not a Master. Do not promote valerioshi mesh, AdtFrh34220, Qaws_4, S004 mesh, elon135942 dummy-mesh. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -7966,17 +7966,20 @@
       "ranking_tags": [],
       "flags": [
         "vf-of-dummy",
-        "not-hopped"
+        "not-hopped",
+        "controller-bridge",
+        "two-tree",
+        "two-tree-live"
       ],
-      "video": "VF of @tommychinc10941 (tommychinc10941 VF 2026-08-30 2:25 PM CT) VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A.",
+      "video": "VF of @tommychinc10941 (tommychinc10941 VF 2026-08-30 2:25 PM CT) VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A. PROMOTED Master 2026-09-02 2:11 AM CT. Two-tree live: VF of @tommychinc10941 (ceomusk-wrapper) AND VF of dummy @hilk35851 under @elon135942. Same shape as Velora. Celebrity off. Hover integer pending. Gold 11.",
       "handle": "@SirFlyzalot",
       "layer": 3,
-      "cluster": "ceomuskgqr",
-      "status": "seen",
-      "stack": "puppet",
+      "cluster": "controller",
+      "status": "controller-bridge",
+      "stack": "master",
       "blocked": false,
       "celebrity": false,
-      "role": "logged"
+      "role": "master"
     },
     {
       "id": "DonnaCrous6abe",
@@ -11332,18 +11335,21 @@
       "display": "XenonForge",
       "flags": [
         "vf-of-dummy",
-        "not-hopped"
+        "not-hopped",
+        "controller-bridge",
+        "two-tree",
+        "two-tree-live"
       ],
       "layer": 3,
-      "cluster": "s005-s002-bridge",
-      "stack": "zombie",
-      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) VF of dummy @TDavi33 under @elon135942. Logged 2026-09-01. Not Path A.",
+      "cluster": "controller",
+      "stack": "master",
+      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) VF of dummy @TDavi33 under @elon135942. Logged 2026-09-01. Not Path A. PROMOTED Master 2026-09-02 2:11 AM CT. Two-tree live: VF of Master @johnjgreen89822 AND VF of dummy @TDavi33 under @elon135942. Same shape as junkribi/Emermuo. Celebrity off. Hover integer pending. Gold 11.",
       "handle": "@SSzroborz",
-      "status": "seen",
+      "status": "controller-bridge",
       "ranking_tags": [],
       "blocked": false,
       "celebrity": false,
-      "role": "logged"
+      "role": "master"
     },
     {
       "id": "JohnnyDepps5b",
@@ -11354,8 +11360,8 @@
       ],
       "layer": 3,
       "cluster": "s005-s002-bridge",
-      "stack": "puppet",
-      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) Impersonation leftover, not Johnny Depp. Celebrity off. VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A.",
+      "stack": "zombie",
+      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) Impersonation leftover, not Johnny Depp. Celebrity off. VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A. HOLD 2026-09-02 2:11 AM CT impersonation leftover Zombie (johnjgreen + dummy SharonWrigea). Not the real Depp, not a Master. Celebrity off.",
       "handle": "@JohnnyDepps5b",
       "status": "seen",
       "ranking_tags": [],
