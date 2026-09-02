@@ -2,7 +2,7 @@
   "updated": "2026-09-01",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 8: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye. Celebrity off on the new ones; hover integers pending. Do not park a live two-tree. @elon135942 Zombie Elon giveaway wrapper 9/0/2215, Viet Nam/Web, geo-mismatch no, VF empty, 9 unverified dummies, not a Master. @vovweb3 pending live card. Jay hops parked: @HanEr2069575 @Clariaalonso @AdrianneMabby. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 9: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo. @Velora_xo two-tree VF of @Appraiser008 (dallasdeb14) AND VF of dummy @Khalidqckc under @elon135942. Celebrity off, 41045. Do not promote other dummy-mask VF of Khalidqckc as Masters. @vovweb3 leftover crypto Puppet 2248/318/13.6K Ukraine, geo-mismatch no, VF 20 no two-tree, followers sample 48 of 2248. @elon135942 Zombie giveaway wrapper 9/0/2215. Two Jay hits done. Pause holds after this write. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -7960,15 +7960,19 @@
       "display": "Sir Flyzalot",
       "bio": "USAF (ret). Patriot MAGA",
       "ranking_tags": [],
-      "flags": [],
-      "video": "VF of @tommychinc10941 (tommychinc10941 VF 2026-08-30 2:25 PM CT)",
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of @tommychinc10941 (tommychinc10941 VF 2026-08-30 2:25 PM CT) VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A.",
       "handle": "@SirFlyzalot",
       "layer": 3,
       "cluster": "ceomuskgqr",
       "status": "seen",
       "stack": "puppet",
       "blocked": false,
-      "celebrity": false
+      "celebrity": false,
+      "role": "logged"
     },
     {
       "id": "DonnaCrous6abe",
@@ -11322,16 +11326,20 @@
     {
       "id": "SSzroborz",
       "display": "XenonForge",
-      "flags": [],
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
       "layer": 3,
       "cluster": "s005-s002-bridge",
       "stack": "zombie",
-      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT)",
+      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) VF of dummy @TDavi33 under @elon135942. Logged 2026-09-01. Not Path A.",
       "handle": "@SSzroborz",
       "status": "seen",
       "ranking_tags": [],
       "blocked": false,
-      "celebrity": false
+      "celebrity": false,
+      "role": "logged"
     },
     {
       "id": "JohnnyDepps5b",
@@ -11343,7 +11351,7 @@
       "layer": 3,
       "cluster": "s005-s002-bridge",
       "stack": "puppet",
-      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) Impersonation leftover, not Johnny Depp. Celebrity off.",
+      "video": "VF of Master @johnjgreen89822 (johnjgreen89822 Path A 2026-08-30 3:49 PM CT) Impersonation leftover, not Johnny Depp. Celebrity off. VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A.",
       "handle": "@JohnnyDepps5b",
       "status": "seen",
       "ranking_tags": [],
@@ -13937,9 +13945,9 @@
       "display": "Velora",
       "layer": 4,
       "cluster": "dallasdeb14",
-      "status": "walked",
-      "stack": "puppet",
-      "role": "puppet",
+      "status": "controller-bridge",
+      "stack": "master",
+      "role": "master",
       "celebrity": false,
       "flags": [
         "paid-promo",
@@ -13950,9 +13958,14 @@
         "web3-builder",
         "jay-named-hop",
         "leftover-name",
-        "recycled-handle"
+        "recycled-handle",
+        "two-tree",
+        "master",
+        "bridge-dallasdeb14-elon135942",
+        "controller-bridge",
+        "two-tree-live"
       ],
-      "video": "VF of @Appraiser008 on dallasdeb14 tree. Live card 41K/30.7K/82.4K. About South Asia / South Asia Android, verified Jul 2026, ID Verified, 4 username changes (last Mar 2026). Geo-mismatch no. Blocked 2026-09-01 Path A. Celebrity off. Crypto/Web3 paid-promo puppet. No Masters, Bingzieryi, or 5xyxh on VF. Prior-blocked @AB_geniuss on followers (same-cluster overlap). Velora_xo Path A 2026-09-01 ~6:05 PM CT. Named hop later; absent from @PlayW3_ VF 2026-09-01 6:10 PM CT. Live 41045. South Asia / South Asia Android, verified Jul 2026, 4 username changes last Mar 2026. Geo-mismatch no. Already blocked. Celebrity off. VF 20, Bingzieryi and 5xyxh ABSENT. No two-tree. Velora_xo Path A 2026-09-01 6:10 PM CT",
+      "video": "VF of @Appraiser008 on dallasdeb14 tree. Live card 41K/30.7K/82.4K. About South Asia / South Asia Android, verified Jul 2026, ID Verified, 4 username changes (last Mar 2026). Geo-mismatch no. Blocked 2026-09-01 Path A. Celebrity off. Crypto/Web3 paid-promo puppet. No Masters, Bingzieryi, or 5xyxh on VF. Prior-blocked @AB_geniuss on followers (same-cluster overlap). Velora_xo Path A 2026-09-01 ~6:05 PM CT. Named hop later; absent from @PlayW3_ VF 2026-09-01 6:10 PM CT. Live 41045. South Asia / South Asia Android, verified Jul 2026, 4 username changes last Mar 2026. Geo-mismatch no. Already blocked. Celebrity off. VF 20, Bingzieryi and 5xyxh ABSENT. No two-tree. Velora_xo Path A 2026-09-01 6:10 PM CT VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A. PROMOTED Master 2026-09-01 ~8:08 PM CT: two-tree VF of @Appraiser008 (dallasdeb14) AND VF of dummy @Khalidqckc under @elon135942. Celebrity off. Live 41045. Not reopened. PROMOTED Master 2026-09-01 8:08 PM CT gold 9. Two-tree: VF of @Appraiser008 (dallasdeb14) AND VF of dummy @Khalidqckc under @elon135942. Celebrity off. 41045. Do not promote other dummy-mask VF of Khalidqckc as Masters.",
       "followers": 41045,
       "following": "30.7K",
       "posts": "82.4K",
@@ -16234,13 +16247,2244 @@
       "display": "vovweb3",
       "layer": 0,
       "cluster": "named-suspect",
-      "status": "pending-drill",
-      "role": null,
+      "status": "walked",
+      "role": "puppet",
       "celebrity": false,
       "flags": [
-        "jay-named-hop"
+        "jay-named-hop",
+        "crypto-on-card",
+        "leftover-name",
+        "id-verified",
+        "rounded-k-posts"
       ],
-      "video": "Jay named 2026-09-01 after @elon135942. Dummy Drill walking. Counts pending live card. Not a Master until two-tree."
+      "video": "Jay named 2026-09-01 after @elon135942. Dummy Drill walking. Counts pending live card. Not a Master until two-tree. Jay-named hop. Leftover crypto puppet, celebrity off. Live 2248 / 318 / 13.6K. Already blocked. About Ukraine / Ukraine App Store, joined Feb 2011, verified Aug 2026, ID verified, 5 username changes last Jul 2025. Geo-mismatch no. VF 20, no two-tree vs 8 Masters. /followers sample 48 of 2248 then stalled. Path A 2026-09-01 ~8:08 PM CT. LOCK 2026-09-01 8:08 PM CT leftover crypto Puppet, celebrity off, not a Master. Live 2248/318/13.6K, already blocked. About Ukraine/Ukraine App Store, joined Feb 2011, verified Aug 2026, ID verified, 5 username changes last Jul 2025, geo-mismatch no. VF 20 listed, no two-tree. Followers sample 48 of 2248, not a full swarm.",
+      "stack": "puppet",
+      "blocked": true,
+      "followers": 2248,
+      "following": 318,
+      "posts": "13.6K",
+      "verified": true,
+      "joined": "February 2011",
+      "location": "",
+      "about_based_in": "Ukraine",
+      "about_connected_via": "Ukraine App Store",
+      "about_verified_since": "August 2026",
+      "username_changes": 5,
+      "ranking_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "id": "rasmrbackup",
+      "handle": "@rasmrbackup",
+      "display": "rasmr backup",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "AiFinancenews",
+      "handle": "@AiFinancenews",
+      "display": "Ai Finance News",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "jany268",
+      "handle": "@jany268",
+      "display": "Quinn",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "everythingfxx",
+      "handle": "@everythingfxx",
+      "display": "Bonafide Brand",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "navic01gabino",
+      "handle": "@navic01gabino",
+      "display": "Gabino",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "bash_shar",
+      "handle": "@bash_shar",
+      "display": "Royalty",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "tjtradez2080",
+      "handle": "@tjtradez2080",
+      "display": "@tjtradez",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ValuedMerchants",
+      "handle": "@ValuedMerchants",
+      "display": "Chris Del Grande",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SubhanJaved911",
+      "handle": "@SubhanJaved911",
+      "display": "Subhan Javed 786",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "chainspect_app",
+      "handle": "@chainspect_app",
+      "display": "Chainspect",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "0xBaneswulf",
+      "handle": "@0xBaneswulf",
+      "display": "0xBaneswulf",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Gods1stDota",
+      "handle": "@Gods1stDota",
+      "display": "Zoba",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DaPonsy",
+      "handle": "@DaPonsy",
+      "display": "Da Ponsy the infiltrator",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "rivennavale",
+      "handle": "@rivennavale",
+      "display": "Rivenna Vale",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "OutThereFan",
+      "handle": "@OutThereFan",
+      "display": "Out There Fan",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DonaldMoor91672",
+      "handle": "@DonaldMoor91672",
+      "display": "GemHunterAI",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "EmoKing1st",
+      "handle": "@EmoKing1st",
+      "display": "Ebn Talal Naji | Autonoma Architect",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "zappage69",
+      "handle": "@zappage69",
+      "display": "HoneyCodeDev",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "sanmiastar",
+      "handle": "@sanmiastar",
+      "display": "BEN Gurain",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Muteeulahi94",
+      "handle": "@Muteeulahi94",
+      "display": "Muteeulahi",
+      "layer": 1,
+      "cluster": "vovweb3",
+      "status": "logged",
+      "stack": "puppet",
+      "role": "puppet",
+      "celebrity": false,
+      "flags": [
+        "vf-of-vovweb3",
+        "not-hopped"
+      ],
+      "video": "VF of @vovweb3. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "EMPRIVT3",
+      "handle": "@EMPRIVT3",
+      "display": "The Robotic man",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @TDavi33 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "girlxid",
+      "handle": "@girlxid",
+      "display": "Ana de Armas",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "OCEANUSCOM",
+      "handle": "@OCEANUSCOM",
+      "display": "OCEANUSCOM",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "djmllssnHQ",
+      "handle": "@djmllssnHQ",
+      "display": "djmllssnHQ",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "0xMephis",
+      "handle": "@0xMephis",
+      "display": "0xMephis",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "BTCBriefHQ",
+      "handle": "@BTCBriefHQ",
+      "display": "BTCBriefHQ",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SigmaMeme__",
+      "handle": "@SigmaMeme__",
+      "display": "SigmaMeme__",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Cipherdio",
+      "handle": "@Cipherdio",
+      "display": "Cipherdio",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DannyWeb3_",
+      "handle": "@DannyWeb3_",
+      "display": "DannyWeb3_",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ShibWhalePump",
+      "handle": "@ShibWhalePump",
+      "display": "ShibWhalePump",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "CfcJuicy",
+      "handle": "@CfcJuicy",
+      "display": "CfcJuicy",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Jidan_vtx1",
+      "handle": "@Jidan_vtx1",
+      "display": "Jidan_vtx1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "BugsBunnyOKK",
+      "handle": "@BugsBunnyOKK",
+      "display": "BugsBunnyOKK",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "BorsatradeTRR",
+      "handle": "@BorsatradeTRR",
+      "display": "BorsatradeTRR",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "AyeshaAi000",
+      "handle": "@AyeshaAi000",
+      "display": "AyeshaAi000",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DevilOfHaven",
+      "handle": "@DevilOfHaven",
+      "display": "DevilOfHaven",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Faizaweb3",
+      "handle": "@Faizaweb3",
+      "display": "Faizaweb3",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SkonToufiq",
+      "handle": "@SkonToufiq",
+      "display": "SkonToufiq",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "kafisayz",
+      "handle": "@kafisayz",
+      "display": "kafisayz",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hodlchi under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "john4brexit",
+      "handle": "@john4brexit",
+      "display": "john4brexit",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "tybtit",
+      "handle": "@tybtit",
+      "display": "tybtit",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SebastianV1571",
+      "handle": "@SebastianV1571",
+      "display": "SebastianV1571",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DennyRuddi124",
+      "handle": "@DennyRuddi124",
+      "display": "DennyRuddi124",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "TeamChosen1",
+      "handle": "@TeamChosen1",
+      "display": "TeamChosen1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "StephenTheo10",
+      "handle": "@StephenTheo10",
+      "display": "StephenTheo10",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Fortis_Chain",
+      "handle": "@Fortis_Chain",
+      "display": "Fortis_Chain",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "WilliamRobw",
+      "handle": "@WilliamRobw",
+      "display": "WilliamRobw",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "keanureevex21",
+      "handle": "@keanureevex21",
+      "display": "keanureevex21",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "VisionaryEmm01",
+      "handle": "@VisionaryEmm01",
+      "display": "VisionaryEmm01",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "McLulong",
+      "handle": "@McLulong",
+      "display": "McLulong",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "mexicanosoy82",
+      "handle": "@mexicanosoy82",
+      "display": "mexicanosoy82",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "elonfanxf",
+      "handle": "@elonfanxf",
+      "display": "elonfanxf",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "MuskDailyNmw09",
+      "handle": "@MuskDailyNmw09",
+      "display": "MuskDailyNmw09",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "MarchandSurgery",
+      "handle": "@MarchandSurgery",
+      "display": "MarchandSurgery",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "rhondahoar",
+      "handle": "@rhondahoar",
+      "display": "rhondahoar",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Jiofunuwrj",
+      "handle": "@Jiofunuwrj",
+      "display": "Jiofunuwrj",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "aline_silvasz",
+      "handle": "@aline_silvasz",
+      "display": "aline_silvasz",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @SharonWrigea under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "rahenah2013",
+      "handle": "@rahenah2013",
+      "display": "rahenah2013",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @shadab_ahmed1 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SattarFarooqui",
+      "handle": "@SattarFarooqui",
+      "display": "SattarFarooqui",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @shadab_ahmed1 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Q222Q_",
+      "handle": "@Q222Q_",
+      "display": "Q222Q_",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @shadab_ahmed1 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "CAIRNational",
+      "handle": "@CAIRNational",
+      "display": "CAIRNational",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @shadab_ahmed1 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "danieljpeter",
+      "handle": "@danieljpeter",
+      "display": "danieljpeter",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @shadab_ahmed1 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "space_frionter",
+      "handle": "@space_frionter",
+      "display": "space_frionter",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SpecsXxwdh",
+      "handle": "@SpecsXxwdh",
+      "display": "SpecsXxwdh",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "EMParodyir1g",
+      "handle": "@EMParodyir1g",
+      "display": "EMParodyir1g",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "JosSnchezHpxmt",
+      "handle": "@JosSnchezHpxmt",
+      "display": "JosSnchezHpxmt",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "CEOEMR2cwf",
+      "handle": "@CEOEMR2cwf",
+      "display": "CEOEMR2cwf",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "enganas",
+      "handle": "@enganas",
+      "display": "enganas",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Rocketmanyl",
+      "handle": "@Rocketmanyl",
+      "display": "Rocketmanyl",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "eli_burton3",
+      "handle": "@eli_burton3",
+      "display": "eli_burton3",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "William_bradle",
+      "handle": "@William_bradle",
+      "display": "William_bradle",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "rhcfucu",
+      "handle": "@rhcfucu",
+      "display": "rhcfucu",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ElonParodyDaily",
+      "handle": "@ElonParodyDaily",
+      "display": "ElonParodyDaily",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "el0ngl0bal",
+      "handle": "@el0ngl0bal",
+      "display": "el0ngl0bal",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "rocketmanlover",
+      "handle": "@rocketmanlover",
+      "display": "rocketmanlover",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "just_grok_it",
+      "handle": "@just_grok_it",
+      "display": "just_grok_it",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "tylerhynes639",
+      "handle": "@tylerhynes639",
+      "display": "tylerhynes639",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ceotelsaowner",
+      "handle": "@ceotelsaowner",
+      "display": "ceotelsaowner",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Ermusk_rock1",
+      "handle": "@Ermusk_rock1",
+      "display": "Ermusk_rock1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "lyndonnriive",
+      "handle": "@lyndonnriive",
+      "display": "lyndonnriive",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @kikavdadecabral under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Rising_america2",
+      "handle": "@Rising_america2",
+      "display": "Rising_america2",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "BobRooij",
+      "handle": "@BobRooij",
+      "display": "BobRooij",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "World_aib",
+      "handle": "@World_aib",
+      "display": "World_aib",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "mil_vet17",
+      "handle": "@mil_vet17",
+      "display": "mil_vet17",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Rumpelstunzchen",
+      "handle": "@Rumpelstunzchen",
+      "display": "Rumpelstunzchen",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "KAFKA_Dev",
+      "handle": "@KAFKA_Dev",
+      "display": "KAFKA_Dev",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "JDMyers77397139",
+      "handle": "@JDMyers77397139",
+      "display": "JDMyers77397139",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Blork4life",
+      "handle": "@Blork4life",
+      "display": "Blork4life",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "elizabeta25452",
+      "handle": "@elizabeta25452",
+      "display": "elizabeta25452",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Ouwe_Barend",
+      "handle": "@Ouwe_Barend",
+      "display": "Ouwe_Barend",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "SimoneGezond",
+      "handle": "@SimoneGezond",
+      "display": "SimoneGezond",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "X_Man1968",
+      "handle": "@X_Man1968",
+      "display": "X_Man1968",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "EelcoHoecke",
+      "handle": "@EelcoHoecke",
+      "display": "EelcoHoecke",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Olle_Shunyata",
+      "handle": "@Olle_Shunyata",
+      "display": "Olle_Shunyata",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "IhssaneKhachai",
+      "handle": "@IhssaneKhachai",
+      "display": "IhssaneKhachai",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Symphony_res",
+      "handle": "@Symphony_res",
+      "display": "Symphony_res",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @hilk35851 under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ScopeNow00",
+      "handle": "@ScopeNow00",
+      "display": "ScopeNow00",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DaniaSafvi",
+      "handle": "@DaniaSafvi",
+      "display": "DaniaSafvi",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "CaliraVal",
+      "handle": "@CaliraVal",
+      "display": "CaliraVal",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "DixadinaDMK",
+      "handle": "@DixadinaDMK",
+      "display": "DixadinaDMK",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ceocommunity1",
+      "handle": "@ceocommunity1",
+      "display": "ceocommunity1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "mattrifefan09",
+      "handle": "@mattrifefan09",
+      "display": "mattrifefan09",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Manishkumanr65",
+      "handle": "@Manishkumanr65",
+      "display": "Manishkumanr65",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ElonXchatmi",
+      "handle": "@ElonXchatmi",
+      "display": "ElonXchatmi",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "LittleX78",
+      "handle": "@LittleX78",
+      "display": "LittleX78",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "RocketManm5wes",
+      "handle": "@RocketManm5wes",
+      "display": "RocketManm5wes",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A. VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "onmyway1133",
+      "handle": "@onmyway1133",
+      "display": "onmyway1133",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "EMkbtd",
+      "handle": "@EMkbtd",
+      "display": "EMkbtd",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "jumobix",
+      "handle": "@jumobix",
+      "display": "jumobix",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ARAFATISLAM56",
+      "handle": "@ARAFATISLAM56",
+      "display": "ARAFATISLAM56",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "dudugangan1",
+      "handle": "@dudugangan1",
+      "display": "dudugangan1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "marisete_wolf",
+      "handle": "@marisete_wolf",
+      "display": "marisete_wolf",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @Khalidqckc under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Nirinine",
+      "handle": "@Nirinine",
+      "display": "Nirinine",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Y88Q8",
+      "handle": "@Y88Q8",
+      "display": "Y88Q8",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "3e2_5",
+      "handle": "@3e2_5",
+      "display": "3e2_5",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "NotElonmsuk1",
+      "handle": "@NotElonmsuk1",
+      "display": "NotElonmsuk1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "VivianJennax2",
+      "handle": "@VivianJennax2",
+      "display": "VivianJennax2",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "dantheeundead",
+      "handle": "@dantheeundead",
+      "display": "dantheeundead",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Rocket_Man00p",
+      "handle": "@Rocket_Man00p",
+      "display": "Rocket_Man00p",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "RIGHT__SCOPEE",
+      "handle": "@RIGHT__SCOPEE",
+      "display": "RIGHT__SCOPEE",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "scott_whit75756",
+      "handle": "@scott_whit75756",
+      "display": "scott_whit75756",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Alexcarter_2",
+      "handle": "@Alexcarter_2",
+      "display": "Alexcarter_2",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "rocketman_fan",
+      "handle": "@rocketman_fan",
+      "display": "rocketman_fan",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "sunbandi69",
+      "handle": "@sunbandi69",
+      "display": "sunbandi69",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Defnotmine2",
+      "handle": "@Defnotmine2",
+      "display": "Defnotmine2",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "_xmodel",
+      "handle": "@_xmodel",
+      "display": "_xmodel",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "iamjacome_",
+      "handle": "@iamjacome_",
+      "display": "iamjacome_",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @jeansSuzetfc2m under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "98Claribel",
+      "handle": "@98Claribel",
+      "display": "98Claribel",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "BabyDogeDaily",
+      "handle": "@BabyDogeDaily",
+      "display": "BabyDogeDaily",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "CHIPICHAPA__SOL",
+      "handle": "@CHIPICHAPA__SOL",
+      "display": "CHIPICHAPA__SOL",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "hazeleraa_",
+      "handle": "@hazeleraa_",
+      "display": "hazeleraa_",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Itx_chirii",
+      "handle": "@Itx_chirii",
+      "display": "Itx_chirii",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Kiran_AI1",
+      "handle": "@Kiran_AI1",
+      "display": "Kiran_AI1",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "bublingjoyx",
+      "handle": "@bublingjoyx",
+      "display": "bublingjoyx",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "jerrygoldd",
+      "handle": "@jerrygoldd",
+      "display": "jerrygoldd",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Solanabulllish",
+      "handle": "@Solanabulllish",
+      "display": "Solanabulllish",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "ApolloDyor",
+      "handle": "@ApolloDyor",
+      "display": "ApolloDyor",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "glgdeth",
+      "handle": "@glgdeth",
+      "display": "Elon Musk",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped",
+        "elon-rocket-parody"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Aishah_Hasnie0x",
+      "handle": "@Aishah_Hasnie0x",
+      "display": "Aishah_Hasnie0x",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "utdjuicee",
+      "handle": "@utdjuicee",
+      "display": "utdjuicee",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Evilsam036",
+      "handle": "@Evilsam036",
+      "display": "Evilsam036",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "TuhinSharker89",
+      "handle": "@TuhinSharker89",
+      "display": "TuhinSharker89",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Moira_quant",
+      "handle": "@Moira_quant",
+      "display": "Moira_quant",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "NuporAkterDJ",
+      "handle": "@NuporAkterDJ",
+      "display": "NuporAkterDJ",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
+    },
+    {
+      "id": "Elara_Yc7",
+      "handle": "@Elara_Yc7",
+      "display": "Elara_Yc7",
+      "layer": 2,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "role": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-dummy",
+        "not-hopped"
+      ],
+      "video": "VF of dummy @antonioxil under @elon135942. Logged 2026-09-01. Not Path A."
     }
   ],
   "edges": [
@@ -21648,6 +23892,796 @@
       "source": "antonioxil",
       "target": "elon135942",
       "type": "dummy_of"
+    },
+    {
+      "source": "rasmrbackup",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "AiFinancenews",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jany268",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "everythingfxx",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "navic01gabino",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "bash_shar",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tjtradez2080",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ValuedMerchants",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SubhanJaved911",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "chainspect_app",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "0xBaneswulf",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Gods1stDota",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DaPonsy",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rivennavale",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "OutThereFan",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DonaldMoor91672",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EmoKing1st",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "zappage69",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "sanmiastar",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Muteeulahi94",
+      "target": "vovweb3",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SSzroborz",
+      "target": "TDavi33",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EMPRIVT3",
+      "target": "TDavi33",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "girlxid",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "OCEANUSCOM",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "djmllssnHQ",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "0xMephis",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BTCBriefHQ",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SigmaMeme__",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Cipherdio",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DannyWeb3_",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ShibWhalePump",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CfcJuicy",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Jidan_vtx1",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BugsBunnyOKK",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BorsatradeTRR",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "AyeshaAi000",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DevilOfHaven",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Faizaweb3",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SkonToufiq",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "kafisayz",
+      "target": "hodlchi",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "john4brexit",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tybtit",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SebastianV1571",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DennyRuddi124",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TeamChosen1",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "StephenTheo10",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Fortis_Chain",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "WilliamRobw",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "keanureevex21",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "VisionaryEmm01",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "McLulong",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JohnnyDepps5b",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "mexicanosoy82",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "elonfanxf",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "MuskDailyNmw09",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "MarchandSurgery",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rhondahoar",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Jiofunuwrj",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "aline_silvasz",
+      "target": "SharonWrigea",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rahenah2013",
+      "target": "shadab_ahmed1",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SattarFarooqui",
+      "target": "shadab_ahmed1",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Q222Q_",
+      "target": "shadab_ahmed1",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CAIRNational",
+      "target": "shadab_ahmed1",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "danieljpeter",
+      "target": "shadab_ahmed1",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "space_frionter",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SpecsXxwdh",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EMParodyir1g",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JosSnchezHpxmt",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CEOEMR2cwf",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "enganas",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rocketmanyl",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tybtit",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "eli_burton3",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "William_bradle",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rhcfucu",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ElonParodyDaily",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "el0ngl0bal",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rocketmanlover",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "just_grok_it",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tylerhynes639",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ceotelsaowner",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Ermusk_rock1",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "lyndonnriive",
+      "target": "kikavdadecabral",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rising_america2",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BobRooij",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "World_aib",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "mil_vet17",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SirFlyzalot",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rumpelstunzchen",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "KAFKA_Dev",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "JDMyers77397139",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Blork4life",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "elizabeta25452",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Ouwe_Barend",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "SimoneGezond",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "X_Man1968",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EelcoHoecke",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Olle_Shunyata",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "IhssaneKhachai",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Symphony_res",
+      "target": "hilk35851",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ScopeNow00",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DaniaSafvi",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CaliraVal",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "DixadinaDMK",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ceocommunity1",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tybtit",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "mattrifefan09",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "el0ngl0bal",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Manishkumanr65",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Velora_xo",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ElonXchatmi",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "LittleX78",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RocketManm5wes",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "onmyway1133",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "EMkbtd",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jumobix",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ARAFATISLAM56",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dudugangan1",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "marisete_wolf",
+      "target": "Khalidqckc",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Nirinine",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Y88Q8",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "3e2_5",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "NotElonmsuk1",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "el0ngl0bal",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rhcfucu",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "VivianJennax2",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "dantheeundead",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "tybtit",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rocket_Man00p",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RIGHT__SCOPEE",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "scott_whit75756",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Alexcarter_2",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rocketman_fan",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "RocketManm5wes",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rocketmanyl",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "sunbandi69",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Defnotmine2",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "_xmodel",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "iamjacome_",
+      "target": "jeansSuzetfc2m",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "98Claribel",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "BabyDogeDaily",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "CHIPICHAPA__SOL",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "hazeleraa_",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Itx_chirii",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Kiran_AI1",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "bublingjoyx",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "jerrygoldd",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Solanabulllish",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "MarchandSurgery",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "ApolloDyor",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "glgdeth",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Aishah_Hasnie0x",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "utdjuicee",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Evilsam036",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "TuhinSharker89",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Moira_quant",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "NuporAkterDJ",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Elara_Yc7",
+      "target": "antonioxil",
+      "type": "verified_follower_of"
     }
   ]
 }
