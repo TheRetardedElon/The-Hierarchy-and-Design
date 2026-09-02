@@ -2,7 +2,7 @@
   "updated": "2026-09-01",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 8: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye. Celebrity off on clara_1s junkribi Emermuo 2mrpc AINovaSkye; hover integers pending. Do not park a live two-tree. @PlayW3_ leftover Puppet 9349 Israel/France App Store (not heavy geo-mismatch). @silvinaescudero leftover Puppet 759436 celebrity off. @DDKing987 leftover Puppet 16116. Jay hops parked pending live cards: @HanEr2069575 @Clariaalonso @AdrianneMabby. Jay 2026-09-01 6:11 PM CT: update the page and pause. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 8: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye. Celebrity off on the new ones; hover integers pending. Do not park a live two-tree. @elon135942 Zombie Elon giveaway wrapper 9/0/2215, Viet Nam/Web, geo-mismatch no, VF empty, 9 unverified dummies, not a Master. @vovweb3 pending live card. Jay hops parked: @HanEr2069575 @Clariaalonso @AdrianneMabby. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -71,6 +71,10 @@
     "dallasdeb14": {
       "label": "dallasdeb14 test-account hit (Jay 2026-09-01)",
       "color": "#5cb8b2"
+    },
+    "elon135942-giveaway": {
+      "label": "Elon giveaway wrapper @elon135942",
+      "color": "#c45a3a"
     }
   },
   "nodes": [
@@ -16048,6 +16052,195 @@
         "elon-themed"
       ],
       "video": "Follows-you Musky rocket light wrapper 2026-09-01 Path B notify. Pending drill."
+    },
+    {
+      "id": "elon135942",
+      "handle": "@elon135942",
+      "display": "Congrat You Won Text Me Via The Link On My Bio",
+      "layer": 0,
+      "cluster": "elon135942-giveaway",
+      "status": "walked",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "elon-wrapper",
+        "giveaway-bait",
+        "rocket-pfp",
+        "ceo-banner",
+        "numbered-handle",
+        "jay-named-hit"
+      ],
+      "blocked": true,
+      "video": "Elon giveaway wrapper. Display is the bait line. Live 9 / 0 / 2215. Already blocked. About Viet Nam / Web, joined Mar 2011, 1 username change last Aug 2026. Geo-mismatch no. VF empty. 9 unverified dummies, no verified, no two-tree vs 8 Masters. Path A 2026-09-01 ~8:02 PM CT. LOCK 2026-09-01 8:03 PM CT Zombie Elon giveaway wrapper, celebrity off, not a Master. Live 9/0/2215. Already blocked. About Viet Nam/Web, joined Mar 2011, 1 username change Aug 2026. Geo-mismatch no. VF empty. 9 unverified dummy children. Gold stays 8.",
+      "followers": 9,
+      "following": 0,
+      "posts": 2215,
+      "verified": false,
+      "joined": "March 2011",
+      "location": "",
+      "about_based_in": "Viet Nam",
+      "about_connected_via": "Web",
+      "username_changes": 1,
+      "bio": ""
+    },
+    {
+      "id": "TDavi33",
+      "handle": "@TDavi33",
+      "display": "TDavis",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "hodlchi",
+      "handle": "@hodlchi",
+      "display": "Hodlchi",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "SharonWrigea",
+      "handle": "@SharonWrigea",
+      "display": "Sharon Wright",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "shadab_ahmed1",
+      "handle": "@shadab_ahmed1",
+      "display": "shadab ahmed",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "kikavdadecabral",
+      "handle": "@kikavdadecabral",
+      "display": "Francisca",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "hilk35851",
+      "handle": "@hilk35851",
+      "display": "Hilko Perton",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "Khalidqckc",
+      "handle": "@Khalidqckc",
+      "display": "Khalid",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "jeansSuzetfc2m",
+      "handle": "@jeansSuzetfc2m",
+      "display": "jeans Suzette Stephens",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "antonioxil",
+      "handle": "@antonioxil",
+      "display": "Gracias",
+      "layer": 1,
+      "cluster": "elon135942-giveaway",
+      "status": "logged",
+      "stack": "zombie",
+      "role": "zombie",
+      "celebrity": false,
+      "flags": [
+        "dummy",
+        "unverified"
+      ],
+      "video": "Unverified dummy follower of @elon135942. Logged from /followers 2026-09-01. Not hopped."
+    },
+    {
+      "id": "vovweb3",
+      "handle": "@vovweb3",
+      "display": "vovweb3",
+      "layer": 0,
+      "cluster": "named-suspect",
+      "status": "pending-drill",
+      "role": null,
+      "celebrity": false,
+      "flags": [
+        "jay-named-hop"
+      ],
+      "video": "Jay named 2026-09-01 after @elon135942. Dummy Drill walking. Counts pending live card. Not a Master until two-tree."
     }
   ],
   "edges": [
@@ -21410,6 +21603,51 @@
       "source": "FrancisZor9959",
       "target": "elon62623",
       "type": "follower_of"
+    },
+    {
+      "source": "TDavi33",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "hodlchi",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "SharonWrigea",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "shadab_ahmed1",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "kikavdadecabral",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "hilk35851",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "Khalidqckc",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "jeansSuzetfc2m",
+      "target": "elon135942",
+      "type": "dummy_of"
+    },
+    {
+      "source": "antonioxil",
+      "target": "elon135942",
+      "type": "dummy_of"
     }
   ]
 }
