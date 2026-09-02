@@ -2,7 +2,7 @@
   "updated": "2026-09-02",
   "title": "The Hierarchy and Design",
   "source": "Teach video walk 2026-08-29 9:17–9:25 PM CT. Only accounts actually opened or shown on S001 verified followers. Dummy-drill 2026-08-29 10:20–10:22 PM CT from S003 @Rocketman69299 (follow-notify hit). Map now includes CloverInAlpha VF hop, S002 dummy @ShadhyAhmd30847, and controller-bridge @Kshsb783142. S002 dummy drill 2026-08-29 10:55 PM CT. Dummy batch 2 2026-08-29 11:03 PM CT. rocket-wrapper hop + Zo/Fifi dummy children 2026-08-29 11:14 PM CT. S002 dummy @Moyosoreoluwa66 blocked + VF hop Path A leftover 2026-08-29 11:21 PM CT. S002 dummy @ElhusinyAm29533 already-blocked + 2 VF Path A leftover 2026-08-29 11:24 PM CT. S002 dummy @VicentJohn98162 blocked, 0 VF, Tanzania dummy children Path A leftover 2026-08-29 11:27 PM CT. @SpaceCowboy190 blocked + 15 VF Path A leftover 2026-08-29 11:30 PM CT. DevotaMinja VF DevotaMinja VF hop 2026-08-29 11:37 PM CT. S004 @xceo486__ follow-notify Path A Jay Path A drill 2026-08-29 11:47 PM CT follow-notify hit. S004 VF hop pankajparkar+codewith_ahsan S004 Path A 2026-08-29 11:57 PM CT.",
-  "observer_note": "Gold Masters 11: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo @SirFlyzalot @SSzroborz. @beyoncegarden leftover stan/fan Puppet 372228 celebrity OFF. @KingTut9111 leftover empty-bio Puppet 138/4497/88 VF of beyoncegarden, celebrity off, not a Master. VF 19 complete, no overlap vs 11 Masters. Gold stays 11. Do not map X staff. Do not invent counts.",
+  "observer_note": "Gold Masters 11: @Kshsb783142 @Rockchilld2 @johnjgreen89822 @clara_1s @junkribi @Emermuo @2mrpc @AINovaSkye @Velora_xo @SirFlyzalot @SSzroborz. Mutual leftover puppets: @silvinaescudero follower_of @Vibatron AND @Vibatron follower_of @silvinaescudero (dallasdeb14 <-> jay-four). Neither is a Master. No more follow-check API; X only. Do not map X staff. Do not invent counts.",
   "clusters": {
     "seed": {
       "label": "Celebrity-face seed",
@@ -5290,17 +5290,19 @@
     {
       "id": "Chandanmgs123",
       "handle": "@Chandanmgs123",
-      "display": "Chandanmgs123",
+      "display": "Chandan Yadav",
       "layer": 2,
-      "cluster": "elon-wrapper-hit",
-      "status": "walked",
+      "cluster": "beyoncegarden",
+      "status": "logged",
       "flags": [
-        "numbered-handle"
+        "vf-of-Shikhr25",
+        "not-hopped"
       ],
       "blocked": false,
       "stack": "zombie",
       "ranking_tags": [],
-      "video": "on @pankajparkar verified_followers (S004 Path A 2026-08-29 11:57 PM CT)"
+      "video": "on @pankajparkar verified_followers (S004 Path A 2026-08-29 11:57 PM CT) VF of @Shikhr25. Logged 2026-09-02. Not Path A.",
+      "celebrity": false
     },
     {
       "id": "atlas_res",
@@ -7480,13 +7482,16 @@
       "ranking_tags": [
         "crypto"
       ],
-      "video": "VF of @JanhvikapoorFC_ (JanhvikapoorFC_ VF pause-log 2026-08-30 1:29 AM CT)",
+      "video": "VF of @JanhvikapoorFC_ (JanhvikapoorFC_ VF pause-log 2026-08-30 1:29 AM CT) VF of @Shikhr25. Logged 2026-09-02. Not Path A.",
       "handle": "@qqa16804",
-      "layer": 3,
-      "cluster": "s001",
-      "status": "seen",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
       "stack": "puppet",
-      "flags": [],
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
       "blocked": false,
       "celebrity": false
     },
@@ -8675,9 +8680,12 @@
       "flags": [
         "crypto-on-card",
         "recycled-handle",
-        "leftover-name"
+        "leftover-name",
+        "leftover-puppet-stitch",
+        "mutual-silvina-vibatron",
+        "cross-cluster-mutual"
       ],
-      "video": "VF of @Meta_Pathfinder (Meta_Pathfinder VF full drill 2026-08-30 2:48 PM CT) 61,887 exact. Following 43.2K HUD, posts 61.5K HUD. Location joke not a country. VF of Meta_Pathfinder. Rank-board Puppet, not a Master. Vibatron Path A 2026-08-30 2:54 PM CT. About US/US App Store, ID verified, affiliate @Spumpio, 11 username changes last Nov 2025. Geo-mismatch no. Parked after VF 12, no Master. Vibatron About parked 2026-08-30 3:00 PM CT. Hover exact 61887. Rank-board Puppet under JanhvikapoorFC_ 75599. Same Meta_Pathfinder tree, not a Master. Parked for Dan post hop 2026-08-30 3:00 PM CT.",
+      "video": "VF of @Meta_Pathfinder (Meta_Pathfinder VF full drill 2026-08-30 2:48 PM CT) 61,887 exact. Following 43.2K HUD, posts 61.5K HUD. Location joke not a country. VF of Meta_Pathfinder. Rank-board Puppet, not a Master. Vibatron Path A 2026-08-30 2:54 PM CT. About US/US App Store, ID verified, affiliate @Spumpio, 11 username changes last Nov 2025. Geo-mismatch no. Parked after VF 12, no Master. Vibatron About parked 2026-08-30 3:00 PM CT. Hover exact 61887. Rank-board Puppet under JanhvikapoorFC_ 75599. Same Meta_Pathfinder tree, not a Master. Parked for Dan post hop 2026-08-30 3:00 PM CT. Assassin 2026-09-02: MUTUAL leftover-puppet stitch silvinaescudero <-> Vibatron (dallasdeb leftover <-> jay-four leftover). Not a Master. Gold stays 11. MUTUAL leftover puppets 2026-09-02 2:31 AM CT: follower_of silvinaescudero and reverse. jay-four <-> dallasdeb14. Not a Master. Gold stays 11.",
       "bio": "founder @steppafnf | vendor | partner @kick | one piece quant | pokemon guru | crypto savant | always nfa",
       "ranking_tags": [
         "crypto"
@@ -11771,12 +11779,15 @@
       "flags": [
         "crypto-on-card",
         "geo-mismatch",
-        "leftover-name"
+        "leftover-name",
+        "leftover-puppet-stitch",
+        "mutual-silvina-vibatron",
+        "cross-cluster-mutual"
       ],
       "ranking_tags": [
         "crypto"
       ],
-      "video": "VF of @JC_LightRaider. Live 759,436. Argentina on card vs About Venezuela / Uruguay App Store. GEO-MISMATCH. Real Argentine TV leftover, celebrity on, crypto shill overlay. Joined Jun 2010, verified Feb 2016. Blocked. VF 17 includes named DDKing987 #2, PlayW3_ #10, SupunChalu143 #17. TWO-TREE: @clara_1s also VF of S004 pankajparkar; @junkribi also VF of Master Rockchilld2. silvinaescudero Path A 2026-09-01 5:31 PM CT. Architecture 2026-09-01: leftover-name of Argentine TV, not the actual public figure, celebrity OFF. Geo-mismatch Argentina vs About Venezuela/Uruguay App Store. 759,436 hover. Crypto overlay. VF 17 walked. Not a Master. Assassin lock 2026-09-01 5:36 PM CT: leftover Puppet, celebrity OFF unless the card is proven the actual Argentine TV person. Geo-mismatch stays. clara_1s + junkribi are the Masters.",
+      "video": "VF of @JC_LightRaider. Live 759,436. Argentina on card vs About Venezuela / Uruguay App Store. GEO-MISMATCH. Real Argentine TV leftover, celebrity on, crypto shill overlay. Joined Jun 2010, verified Feb 2016. Blocked. VF 17 includes named DDKing987 #2, PlayW3_ #10, SupunChalu143 #17. TWO-TREE: @clara_1s also VF of S004 pankajparkar; @junkribi also VF of Master Rockchilld2. silvinaescudero Path A 2026-09-01 5:31 PM CT. Architecture 2026-09-01: leftover-name of Argentine TV, not the actual public figure, celebrity OFF. Geo-mismatch Argentina vs About Venezuela/Uruguay App Store. 759,436 hover. Crypto overlay. VF 17 walked. Not a Master. Assassin lock 2026-09-01 5:36 PM CT: leftover Puppet, celebrity OFF unless the card is proven the actual Argentine TV person. Geo-mismatch stays. clara_1s + junkribi are the Masters. Assassin 2026-09-02: MUTUAL leftover-puppet stitch silvinaescudero <-> Vibatron (dallasdeb leftover <-> jay-four leftover). Not a Master. Gold stays 11. MUTUAL leftover puppets 2026-09-02 2:31 AM CT: follower_of Vibatron and reverse. dallasdeb14 <-> jay-four. Not a Master. Gold stays 11.",
       "handle": "@silvinaescudero",
       "layer": 3,
       "cluster": "dallasdeb14",
@@ -18853,13 +18864,30 @@
       "display": "knowledgeadda",
       "layer": 1,
       "cluster": "beyoncegarden",
-      "status": "queued",
+      "status": "walked",
       "celebrity": false,
       "flags": [
         "vf-of-beyoncegarden",
-        "suspect-to-hop"
+        "numbered-handle",
+        "parody",
+        "geo-mismatch",
+        "late-verify-sep-2026"
       ],
-      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued."
+      "video": "VF of @beyoncegarden. Logged 2026-09-02. Suspect hop queued. Numbered VF of @beyoncegarden. Leftover parody puppet, celebrity off. Live 2719 / 3301 / 5610. Blue verified. Card Dubai UAE vs About India / India Android App. GEO-MISMATCH YES. Joined Dec 2021, verified Sep 2026, 3 username changes last Apr 2025. Blocked. VF 20 complete, no overlap vs 11 Masters or leftover hybrids. /following 49 of 3301, /followers 47 of 2719. Path A 2026-09-02 ~2:31 AM CT.",
+      "stack": "puppet",
+      "role": "puppet",
+      "blocked": true,
+      "followers": 2719,
+      "following": 3301,
+      "posts": 5610,
+      "verified": true,
+      "joined": "December 2021",
+      "location": "Dubai, United Arab Emirates",
+      "about_based_in": "India",
+      "about_connected_via": "India Android App",
+      "about_verified_since": "September 2026",
+      "username_changes": 3,
+      "bio": "This is the era of change, of equality, of the backward Show yourself to the world"
     },
     {
       "id": "Keith97097",
@@ -19653,6 +19681,258 @@
         "not-hopped"
       ],
       "video": "VF of @KingTut9111. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "JostKachi",
+      "handle": "@JostKachi",
+      "display": "Kachi",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "rikoiskakeepa",
+      "handle": "@rikoiskakeepa",
+      "display": "rikoiskak",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "iamshah0786",
+      "handle": "@iamshah0786",
+      "display": "Raju shah",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "hey_alara",
+      "handle": "@hey_alara",
+      "display": "alara",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "nhunglora9x",
+      "handle": "@nhunglora9x",
+      "display": "Nhung Lora",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Travelodge_G",
+      "handle": "@Travelodge_G",
+      "display": "America Wants to Know",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "harishprasad81",
+      "handle": "@harishprasad81",
+      "display": "Harish Prasad Semwal",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "mushirahmagdb2",
+      "handle": "@mushirahmagdb2",
+      "display": "mushir ahmad",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "zoha_qureshi7",
+      "handle": "@zoha_qureshi7",
+      "display": "zoha",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "angel77monu",
+      "handle": "@angel77monu",
+      "display": "angel",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Im___maryam",
+      "handle": "@Im___maryam",
+      "display": "Maryam",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "_theahirr",
+      "handle": "@_theahirr",
+      "display": "SACHIN YADAV",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Rizwan_672",
+      "handle": "@Rizwan_672",
+      "display": "Rizwan Jutt",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "IqraAlikg",
+      "handle": "@IqraAlikg",
+      "display": "Iqra Ali",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "PawankumarRj49",
+      "handle": "@PawankumarRj49",
+      "display": "Pawan Kumar",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "pooja__44",
+      "handle": "@pooja__44",
+      "display": "Pooja Singh",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Dheepak_cfc",
+      "handle": "@Dheepak_cfc",
+      "display": "Dhee",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
+    },
+    {
+      "id": "Djbhai01",
+      "handle": "@Djbhai01",
+      "display": "Dhananjay Singh",
+      "layer": 2,
+      "cluster": "beyoncegarden",
+      "status": "logged",
+      "celebrity": false,
+      "flags": [
+        "vf-of-Shikhr25",
+        "not-hopped"
+      ],
+      "video": "VF of @Shikhr25. Logged 2026-09-02. Not Path A."
     }
   ],
   "edges": [
@@ -26225,6 +26505,116 @@
       "source": "DocKevynSoBlu",
       "target": "KingTut9111",
       "type": "verified_follower_of"
+    },
+    {
+      "source": "JostKachi",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "rikoiskakeepa",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "iamshah0786",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Chandanmgs123",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "hey_alara",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "nhunglora9x",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Travelodge_G",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "harishprasad81",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "mushirahmagdb2",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "qqa16804",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "zoha_qureshi7",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "angel77monu",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Im___maryam",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "_theahirr",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Rizwan_672",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "IqraAlikg",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "PawankumarRj49",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "pooja__44",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Dheepak_cfc",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "Djbhai01",
+      "target": "Shikhr25",
+      "type": "verified_follower_of"
+    },
+    {
+      "source": "silvinaescudero",
+      "target": "Vibatron",
+      "type": "follower_of"
+    },
+    {
+      "source": "Vibatron",
+      "target": "silvinaescudero",
+      "type": "follower_of"
     }
   ]
 }
